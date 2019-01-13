@@ -58,9 +58,9 @@ For each discussion reading, students will prepare a reading response. A reading
 * What are the author's main conclusions?
 # Grading
 
-| Course Component  | Percentage |
+| Course Component | Percentage |
 | ------------- | ------------- |
-| Participation  | 10%  |
+| Participation | 10%  |
 | Short Writing Assignments | 20% |
 | Timeline.js | 10% |
 | Papers | 40% |
@@ -72,3 +72,11 @@ It is expected that you will attend all classes, that you will prepare for class
 There will be nine short writing assignments in this class. They will be based on the discussion readings.
 # Timeline.js
 Students will create a collaborate timeline of the Life of Antony using [Timeline.js](https://timeline.knightlab.com/). More details will follow.
+# Papers
+Students will submit three papers in this course.
+
+| Paper | Length | Due Date | Percentage |
+| ------------- | ------------- |
+| Paper 1  | 4-5 pages double-spaced | February 25 | 10% |
+| Paper 2 | 4-5 pages double-spaced | March 20 | 10% |
+| Research Paper | 5-6 pages double-spaced | April 8 | 20% |
