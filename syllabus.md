@@ -38,7 +38,5 @@ Reading – and reading actively – is an essential part of this course. Withou
 The readings listed in the course schedule are of three kinds.
 
 | Background Readings | Please take notes. |
-
-
-|Discussion Readings|Please write a reading response and prepare to discuss.|
-|Assignment Readings|Please complete an assignment.|
+| Discussion Readings | Please write a reading response and prepare to discuss. |
+| Assignment Readings | Please complete an assignment. |
