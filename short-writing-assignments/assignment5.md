@@ -5,4 +5,4 @@
 
 due February 13
 
-Identify a theme or motif in the _Life of Antony_. How does this theme or motif portray Antony and asceticism? Discuss at least two specific passages from the _Life of Antony_ that illustrate this theme or motif. Focus on how the selected passages express the theme or motif you have identified.
+Choose two chapters in Part 2 (Chapters 49-94) of the _Life of Antony_ and summarize them in your own words. How do the two chapters portray Antony? What qualities of Antony and aspects of asceticism do they highlight?
