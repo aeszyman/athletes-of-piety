@@ -31,6 +31,8 @@ In this seminar, students will explore ways in which a system of beliefs and val
 * Athanasios of Alexandria, Life of Antony, trans. Robert C. Gregg (New York: Paulist Press, c1980). ISBN: 0809122952
 * The Lives of Simeon Stylites, trans. Robert Doran (Kalamazoo, Mich.: Cistercian Publications, c1992). ISBN: 0879075120
 * Kate L. Turabian, Student’s Guide to Writing College Papers (Chicago; London: The University of Chicago Press, 2010). ISBN: 0226816311
+## Course Materials
+Course materials are available on GitHub. To access them, you need to create a free GitHub account.
 ## Weekly Work
 Weekly Work consists of how you prepare to participate actively. It involves reading actively and responding critically to that reading in writing.
 ## Reading
@@ -64,3 +66,9 @@ For each discussion reading, students will prepare a reading response. A reading
 | Papers | 40% |
 | Oral Presentation | 10% |
 | Final Portfolio | 10% |
+# Participation
+It is expected that you will attend all classes, that you will prepare for classes ahead of time, that you will participate actively in class activities and discussions, and that you will take detailed notes. I will take attendance at the beginning of each class session. Absences and persistent lateness will be duly noted and will negatively affect your final grade. Should you be absent for any reason, it is your responsibility to make up the content covered in class. You are encouraged to get help from other students in class. Ask to borrow notes and discuss what you missed. If you need further clarification, please see the instructor. Participation grade includes reading responses.
+# Short Writing Assignments
+There will be nine short writing assignments in this class. They will be based on the discussion readings.
+# Timeline.js
+Students will create a collaborate timeline of the Life of Antony using Timeline.js (https://timeline.knightlab.com/). More details will follow.
