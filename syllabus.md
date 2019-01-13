@@ -44,8 +44,11 @@ The readings listed in the course schedule are of three kinds.
 | Assignment Readings | Please complete an assignment. |
 
 ## Reading Responses
+
 1-2 pages, double-spaced
+
 Please upload to Richmond Box.
+
 For each discussion reading, students will prepare a reading response. A reading response should summarize the reading and include a discussion of at least one specific passage that stood out to you. You may choose to use the questions below as a guide to the summary part of your reading response.
 * What is the reading's main subject?
 * What is the author's main thesis?
