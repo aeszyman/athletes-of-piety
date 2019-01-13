@@ -37,6 +37,9 @@ Weekly Work consists of how you prepare to participate actively. It involves rea
 Reading – and reading actively – is an essential part of this course. Without careful and engaged reading, all of the other components of this class are impossible. There is a large amount of reading in this class, and you need to keep up with it. I assume that everyone completes the assigned weekly readings – I want to see evidence that you have actively engaged with their ideas.
 The readings listed in the course schedule are of three kinds.
 
-|Background Readings|Please take notes.|
+| Background Readings | Please take notes. |
+---------------------
+
+
 |Discussion Readings|Please write a reading response and prepare to discuss.|
 |Assignment Readings|Please complete an assignment.|
