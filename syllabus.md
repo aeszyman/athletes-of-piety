@@ -41,7 +41,6 @@ The readings listed in the course schedule are of three kinds.
 | Discussion Readings | Please write a reading response and prepare to discuss. |
 | Assignment Readings | Please complete an assignment. |
 
-| First Header  | Second Header |
-| ------------- | ------------- |
+| Background Readings  | Please take notes. |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
