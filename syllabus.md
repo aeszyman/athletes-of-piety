@@ -54,3 +54,13 @@ For each discussion reading, students will prepare a reading response. A reading
 * What is the author's main thesis?
 * What evidence has the author used to support her or his thesis?
 * What are the author's main conclusions?
+# Grading
+
+| Course Component  | Percentage |
+| ------------- | ------------- |
+| Participation  | 10%  |
+| Short Writing Assignments | 20% |
+| Timeline.js | 10% |
+| Papers | 40% |
+| Oral Presentation | 10% |
+| Final Portfolio | 10% |
