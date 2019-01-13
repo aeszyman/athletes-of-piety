@@ -83,7 +83,7 @@ Students will submit three papers in this course.
 
 The research paper will consist of four components.
 
-| Paper | Due Date |
+| Component | Due Date |
 | ------------- | ------------- |
 | Research Topic and Question | March 6 |
 | Annotated Bibliography and Outline | March 25 |
