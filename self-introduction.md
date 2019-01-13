@@ -1,4 +1,4 @@
-######Self-Introduction (1-2 pages, double-spaced)
+**Self-Introduction** (1-2 pages, double-spaced)
 
 Due January 16
 
