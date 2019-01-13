@@ -88,3 +88,13 @@ The research paper will consist of four components.
 | Research Topic and Question | March 6 |
 | Annotated Bibliography and Outline | March 25 |
 | Final Research Paper | April 8 |
+# Oral Presentation
+Students will give a fifteen-minute presentation in pairs. I will distribute a list of topics from which you can choose.
+# Final Portfolio
+You will turn in a “portfolio” of the work you have done throughout the semester. This folder or notebook should contain all papers, weekly writings, additional assignments, and in-class writings. In order to receive credit for your work you must include the original assignments that include my comments. As part of your portfolio, you will write a “portfolio cover letter” (based in part on your midterm self-evaluation), a self-evaluation in which you reflect upon the work you did in the class. In the cover letter, you will be able to state what grade you think you deserve in our seminar. This portfolio is required in order to receive credit for this course.
+# Grading Schema
+| Excellent | Good | Average | Poor |
+| ------------- | ------------- | ------------- | ------------- |
+| 97-100% = A+ | 87-90% = B+ | 77-80% = C+ | 67-70% = D+ |
+| 94-97% = A | 84-87 = B | 74-77% = C | 64-67% = D |
+| 90-94% = A- | 80-84% = B- | 70-74% = C- | 60-64% = D- |
