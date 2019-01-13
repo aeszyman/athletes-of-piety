@@ -76,7 +76,7 @@ Students will create a collaborate timeline of the Life of Antony using [Timelin
 Students will submit three papers in this course.
 
 | Paper | Length | Due Date | Percentage |
-| ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- |
 | Paper 1  | 4-5 pages double-spaced | February 25 | 10% |
 | Paper 2 | 4-5 pages double-spaced | March 20 | 10% |
 | Research Paper | 5-6 pages double-spaced | April 8 | 20% |
