@@ -5,4 +5,4 @@
 
 due January 23
 
-Summarize “Baptismal Rites and Architecture” by Robin M. Jensen.
+Summarize “Baptismal Rites and Architecture” by Robin M. Jensen in your own words.
