@@ -77,6 +77,14 @@ Students will submit three papers in this course.
 
 | Paper | Length | Due Date | Percentage |
 | ------------- | ------------- | ------------- | ------------- |
-| Paper 1  | 4-5 pages double-spaced | February 25 | 10% |
+| Paper 1 | 4-5 pages double-spaced | February 25 | 10% |
 | Paper 2 | 4-5 pages double-spaced | March 20 | 10% |
 | Research Paper | 5-6 pages double-spaced | April 8 | 20% |
+
+The research paper will consist of four components.
+
+| Paper | Due Date |
+| ------------- | ------------- |
+| Research Topic and Question | March 6 |
+| Annotated Bibliography and Outline | March 25 |
+| Final Research Paper | April 8 |
