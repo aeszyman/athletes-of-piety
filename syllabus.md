@@ -254,7 +254,7 @@ Please submit Research Paper Outline.
 * Elizabeth A. Clark, “Asceticism, Gender, and Class,” in _Late Ancient Christianity_, ed. Virginia Burrus (Minneapolis: Fortress Press, c2005). e-reserve (background)
 * Aline Rousselle, “Salvation by Child Sacrifice and Castration,” in _Porneia: On Desire and the Body in Antiquity_ (Wipf and Stock Publishers, 2013). GitHub (discussion)
 * David Brakke, “The Problematization of Nocturnal Emission in Early Christian Syria, Egypt, and Gaul,” _Journal of Early Christian Studies_ 3.4 (1995). Boatwright catalogue (discussion)
-* David Brakke, “The Lady Appears: Materializations of “Woman” in Early Monastic Literature,” in _The Cultural Turn in Late Ancient Studies: Gender, Asceticism, and Historiography_, ed. Dale B. Martin and Patricia Cox Miller (Durham: Duke University Press, 2005). e-reserve (discussion)
+* David Brakke, “The Lady Appears: Materializations of “Woman” in Early Monastic Literature,” in _The Cultural Turn in Late Ancient Studies: Gender, Asceticism, and Historiography_, ed. Dale B. Martin and Patricia Cox Miller (Durham: Duke University Press, 2005). GitHub (discussion)
 
 Please submit Assignment 9.
 
