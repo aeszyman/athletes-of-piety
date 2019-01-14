@@ -231,7 +231,7 @@ Please submit Annotated Bibliography.
 
 * Teresa M. Shaw, “The Physiology of Ascetic Fasting,” in _The Burden of the Flesh: Fasting and Sexuality in Early Christianity_ (Minneapolis: Fortress Press, 1998). e-reserve (discussion)
 * Darlene L. Brooks Hedstrom, “Monks Baking Bread and Salting Fish: An Archaeology of Early Monastic Taste,” in _Knowing Bodies, Passionate Souls: Sense Perceptions in Byzantium_, ed. Susan Ashbrook Harvey and Margaret Mullett (Washington, DC: Dumbarton Oaks Research Library and Collection, 2017).
-Susan Ashbrook Harvey, “Sanctity and Stench,” in _Scenting Salvation: Ancient Christianity and the Olfactory Imagination_ (Berkeley: University of California Press, 2006).
+* Susan Ashbrook Harvey, “Sanctity and Stench,” in _Scenting Salvation: Ancient Christianity and the Olfactory Imagination_ (Berkeley: University of California Press, 2006).
 
 Please submit Assignment 8.
 
