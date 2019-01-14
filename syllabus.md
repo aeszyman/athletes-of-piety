@@ -223,7 +223,7 @@ Please submit Research Topic and Question.
 Please submit Paper 2.
 
 ###### Week 11
-**March 25: Film _Agora_
+**March 25: Film _Agora_**
 
 Please submit Annotated Bibliography.
 
