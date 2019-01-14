@@ -115,6 +115,6 @@ Please watch [“Rome Reborn”](https://www.youtube.com/watch?v=e_phjB19ZEg).
 
 Please submit Self-Introduction and Assignment 1.
 ###### Week 2
-**January 21: No Class: Martin Luther King Jr. Day
+**January 21: No Class: Martin Luther King Jr. Day**
 
 Service Opportunity: East End Cemetery – Clear brush and restore pathways at a traditional African American cemetery in the East End that has suffered decades of neglect. Click [here](https://richmond.givepulse.com/event/95826) to register.
