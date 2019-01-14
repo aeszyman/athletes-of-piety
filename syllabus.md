@@ -92,6 +92,8 @@ The research paper will consist of four components.
 | Research Topic and Question | March 6 |
 | Annotated Bibliography and Outline | March 25 |
 | Final Research Paper | April 8 |
+
+The instructor will give students detailed feedback on each paper. Students are encouraged to revise and resubmit.
 # Oral Presentation
 Students will give a fifteen-minute presentation in pairs. I will distribute a list of topics from which you can choose.
 # Final Portfolio
