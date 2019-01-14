@@ -4,7 +4,7 @@ Brakke, David. _Demons and the Making of the Monk: Spiritual Combat in Early Chr
 
 Brooks Hedstrom, Darlene L. _The Monastic Landscape of Late Antique Egypt: An Archaeological Reconstruction_. Cambridge, United Kingdom; New York, NY: Cambridge University Press, 2017.
 
-Burrus, Virginia, ed. _Late Ancient Christianity_. Minneapolis : Fortress Press, c2005.
+Burrus, Virginia, ed. _Late Ancient Christianity_. Minneapolis: Fortress Press, c2005.
 
 Clark, Gillian. _Late Antiquity: A Very Short Introduction_. Oxford University Press, 2013.
 
