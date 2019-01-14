@@ -10,6 +10,8 @@ Jepson Hall 106
 
 Instructor: Agnieszka Szymańska
 
+Email Address: aszymans@richmond.edu
+
 Office Location: Brunet 203
 
 Office Hours: Wednesdays at 1-3 pm
@@ -42,8 +44,10 @@ The readings listed in the course schedule are of three kinds.
 | Readings  | Tasks |
 | ------------- | ------------- |
 | Background Readings  | Please take notes.  |
-| Discussion Readings | Please write a reading response and prepare to discuss. |
+| Discussion Readings | Please write a reading response. |
 | Assignment Readings | Please complete an assignment. |
+
+Class discussions will focus on Discussion and Assignment Readings.
 
 ## Reading Responses
 
@@ -111,7 +115,7 @@ Please watch [“Rome Reborn”](https://www.youtube.com/watch?v=e_phjB19ZEg).
 
 * Glen Warren Bowersock, Peter Brown, and Oleg Grabar, “Introduction,” in _Interpreting Late Antiquity: Essays on the Postclassical World_ (Harvard University Press, 2001). GitHub
 * Gillian Clark, “What and When Is Late Antiquity?”, in _Late Antiquity: A Very Short Introduction_ (Oxford University Press, 2013). eBook (discussion)
-* Michael Maas, ed., “The Sack of Rome, AD 410,” in _Readings in Late Antiquity: A Sourcebook_ (London; New York: Routledge, 2000). GitHub (assignment + discussion)
+* Michael Maas, ed., “The Sack of Rome, AD 410,” in _Readings in Late Antiquity: A Sourcebook_ (London; New York: Routledge, 2000). GitHub (assignment)
 
 Please submit Self-Introduction and Assignment 1.
 ###### Week 2
@@ -123,7 +127,7 @@ Service Opportunity: East End Cemetery – Clear brush and restore pathways at a
 
 * Linda Woodhead, “Beliefs, Rituals, and Narratives,” in _Christianity: A Very Short Introduction_ (Oxford University Press, 2014). eBook (background)
 * Robin M. Jensen, “Pictorial Typologies and Visual Exegesis,” in _Understanding Early Christian Art_ (London; New York: Routledge, 2000). e-reserve (discussion)
-* Robin M. Jensen, “Baptismal Rites and Architecture,” in _Late Ancient Christianity_, ed. Virginia Burrus (Minneapolis: Fortress Press, c2005). e-reserve (assignment + discussion)
+* Robin M. Jensen, “Baptismal Rites and Architecture,” in _Late Ancient Christianity_, ed. Virginia Burrus (Minneapolis: Fortress Press, c2005). e-reserve (assignment)
 
 Please submit Assignment 2.
 ###### Week 3
@@ -133,9 +137,9 @@ Please submit Assignment 2.
 
 **January 30: Late Antique Asceticism**
 
-* Rebecca Krawiec, “Asceticism,” in _The Oxford Handbook of Early Christian Studies_, ed. Susan Ashbrook Harvey and David G. Hunter (Oxford; New York: Oxford University Press, 2008). e-reserve (assignment + discussion)
-* Stephen J. Davis, “Definitions,” in _Monasticism: A Very Short Introduction_ (Oxford University Press, 2018). eBook (assignment + discussion)
-* Samuel Rubenson, “Monasticism and the Philosophical Heritage,” in _The Oxford Handbook of Late Antiquity_, ed. Scott Fitzgerald Johnson (Oxford; New York: Oxford University Press, c2012). eBook (assignment + discussion)
+* Rebecca Krawiec, “Asceticism,” in _The Oxford Handbook of Early Christian Studies_, ed. Susan Ashbrook Harvey and David G. Hunter (Oxford; New York: Oxford University Press, 2008). e-reserve (assignment)
+* Stephen J. Davis, “Definitions,” in _Monasticism: A Very Short Introduction_ (Oxford University Press, 2018). eBook (assignment)
+* Samuel Rubenson, “Monasticism and the Philosophical Heritage,” in _The Oxford Handbook of Late Antiquity_, ed. Scott Fitzgerald Johnson (Oxford; New York: Oxford University Press, c2012). eBook (assignment)
 * Gavin D. Flood, “The Asceticism of the Desert,” in _The Ascetic Self: Subjectivity, Memory, and Tradition_ (Cambridge, UK; New York: Cambridge University Press, 2004). e-reserve (discussion)
 
 Please submit Assignment 3.
@@ -151,7 +155,7 @@ Please submit Assignment 3.
 **February 6: _Life of Antony_**
 
 * William Harmless, “The Life of Antony: Text and Context,” in _Desert Christians: An Introduction to the Literature of Early Monasticism_ (Oxford University Press, 2004). eBook (background)
-* _Life of Antony_, Preface and Chapters 1-48. required text (assignment + discussion)
+* _Life of Antony_, Preface and Chapters 1-48. required text (assignment)
 
 Please submit Assignment 4.
 
@@ -161,7 +165,7 @@ Please submit Assignment 4.
 **February 13: _Life of Antony_**
 
 * William Harmless, “The Life of Antony: Themes and Influence,” in _Desert Christians: An Introduction to the Literature of Early Monasticism_ (Oxford University Press, 2004). eBook (background)
-* _Life of Antony_, Chapters 49-94. required text (assignment + discussion)
+* _Life of Antony_, Chapters 49-94. required text (assignment)
 
 Please submit Assignment 5.
 
@@ -187,7 +191,7 @@ Please submit Paper 1.
 **February 27: _The Lives of Simeon Stylites_**
 
 * William Harmless, “Symeon the Stylite and Syrian Asceticism,” in _Desert Christians: An Introduction to the Literature of Early Monasticism_ (Oxford University Press, 2004), 426-428. eBook (background)
-_The Life of Saint Simeon Stylites_ by Theodoret, Bishop of Cyrrhus. required text (assignment + discussion)
+_The Life of Saint Simeon Stylites_ by Theodoret, Bishop of Cyrrhus. required text (assignment)
 
 Please submit Assignment 6.
 
@@ -198,8 +202,8 @@ Please submit Mid-Semester Self-Evaluation and schedule an appointment with the 
 ###### Week 8
 **March 4: _The Lives of Simeon Stylites_**
 
-* _The Life and Daily Mode of Living of Blessed Simeon the Stylite_ by Antonios. required text (assignment + discussion)
-* _The Syriac Life of Saint Simeon Stylites_. required text (assignment + discussion)
+* _The Life and Daily Mode of Living of Blessed Simeon the Stylite_ by Antonios. required text (assignment)
+* _The Syriac Life of Saint Simeon Stylites_. required text (assignment)
 * Brandie Ratliff, “The Stylites of Syria,” in _Byzantium and Islam: Age of Transition_, ed. Helen C. Evans and Brandie Ratliff (New Haven, Conn.; London: Yale University Press, 2012). e-reserve (background)
 
 Please submit Assignment 7.
