@@ -238,7 +238,7 @@ Please submit Assignment 8.
 ###### Week 12
 **April 1: Writing Workshop**
 
-Kate L. Turabian, “Planning Your Argument,” “Planning a First Draft,” “Drafting Your Paper,” “Preventing Plagiarism,” “Revising Your Draft,” “Writing Your Final Introduction and Conclusion,” “Revising Sentences,” “Learning from Your Returned Paper,” “On the Spirit of Research,” and “Citations,” in _Student’s Guide to Writing College Papers_ (Chicago; London: The University of Chicago Press, 2010). required text (background)
+* Kate L. Turabian, “Planning Your Argument,” “Planning a First Draft,” “Drafting Your Paper,” “Preventing Plagiarism,” “Revising Your Draft,” “Writing Your Final Introduction and Conclusion,” “Revising Sentences,” “Learning from Your Returned Paper,” “On the Spirit of Research,” and “Citations,” in _Student’s Guide to Writing College Papers_ (Chicago; London: The University of Chicago Press, 2010). required text (background)
 
 Please submit Research Paper Outline.
 
