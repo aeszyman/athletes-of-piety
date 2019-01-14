@@ -30,9 +30,9 @@ This seminar examines the lives of Christian ascetics in late antique eastern Me
 ## Course Description
 In this seminar, students will explore ways in which a system of beliefs and values can affect the human condition through a set of ritual practices and spatial settings designed to enact those beliefs and values. In particular, this course asks, how do pursuits of an ideal — in this case the ascetic ideal — shape notions concerning body, gender, social structures, and built environments? For example, does social hierarchy have an impact on the hierarchy of space? What are the meaning and purpose of combat against demons, real or imagined, for identity construction? Why do perceptions of the human body and gender roles prove significant even for monastic communities whose spokespeople claimed that they had no interest in corporeal matters? Students will grapple with these questions through critical analysis of primary sources, both textual and visual. Readings for this course will include seminal monastic texts, for example the Life of Antony. Students will also work with archival and documentary material such as excavation reports and translated papyri. Scholarly articles and book chapters in the fields of religious studies, history, archaeology, and art history will supplement these primary sources. Students will engage course content and activate their knowledge base through discussions, reading responses, and writing assignments.
 ## Required Texts
-* Athanasios of Alexandria, Life of Antony, trans. Robert C. Gregg (New York: Paulist Press, c1980). ISBN: 0809122952
-* The Lives of Simeon Stylites, trans. Robert Doran (Kalamazoo, Mich.: Cistercian Publications, c1992). ISBN: 0879075120
-* Kate L. Turabian, Student’s Guide to Writing College Papers (Chicago; London: The University of Chicago Press, 2010). ISBN: 0226816311
+* Athanasios of Alexandria, _Life of Antony_, trans. Robert C. Gregg (New York: Paulist Press, c1980). ISBN: 0809122952
+* _The Lives of Simeon Stylites_, trans. Robert Doran (Kalamazoo, Mich.: Cistercian Publications, c1992). ISBN: 0879075120
+* Kate L. Turabian, _Student’s Guide to Writing College Papers_ (Chicago; London: The University of Chicago Press, 2010). ISBN: 0226816311
 ## Course Materials
 Course materials are available on GitHub. You can access them [here](https://github.com/aeszyman/athletes-of-piety).
 ## Weekly Work
