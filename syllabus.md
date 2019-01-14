@@ -184,7 +184,7 @@ Please submit Timeline.js.
 **February 20: Pilgrimage and the Cult of Relics in the Holy Land**
 
 * Derek Krueger, “The Religion of Relics in Late Antiquity and Byzantium,” in _Treasures of Heaven: Saints, Relics, and Devotion in Medieval Europe_, ed. Martina Bagnoli, Holger A. Klein, C. Griffith Mann, and James Robinson (Baltimore: Walters Art Museum, 2010). e-reserve (discussion)
-* Jaś Elsner, “Relics, Icon, and Architecture: The Material Articulation of the Holy in East Christian Art,” in _Saints and Sacred Matter: The Cult of Relics in Byzantium and Beyond_, ed. Cynthia Hahn and Holger A. Klein (Washington, DC: Dumbarton Oaks Research Library and Collection, 2015). e-reserve (discussion)
+* Jaś Elsner, “Relics, Icon, and Architecture: The Material Articulation of the Holy in East Christian Art,” in _Saints and Sacred Matter: The Cult of Relics in Byzantium and Beyond_, ed. Cynthia Hahn and Holger A. Klein (Washington, D.C.: Dumbarton Oaks Research Library and Collection, 2015). e-reserve (discussion)
 * Georgia Frank, “Pilgrimage,” in _The Oxford Handbook of Early Christian Studies_, ed. Susan Ashbrook Harvey and David G. Hunter (Oxford; New York: Oxford University Press, 2008). e-reserve (discussion)
 * Philip Wood, “Syriac and the Syrians,” in _The Oxford Handbook of Late Antiquity_, ed. Scott Fitzgerald Johnson (Oxford; New York: Oxford University Press, c2012). eBook (background)
 
@@ -237,7 +237,7 @@ Please submit Annotated Bibliography.
 **March 27: Body and the Senses**
 
 * Teresa M. Shaw, “The Physiology of Ascetic Fasting,” in _The Burden of the Flesh: Fasting and Sexuality in Early Christianity_ (Minneapolis: Fortress Press, 1998). e-reserve (discussion)
-* Darlene L. Brooks Hedstrom, “Monks Baking Bread and Salting Fish: An Archaeology of Early Monastic Taste,” in _Knowing Bodies, Passionate Souls: Sense Perceptions in Byzantium_, ed. Susan Ashbrook Harvey and Margaret Mullett (Washington, DC: Dumbarton Oaks Research Library and Collection, 2017). e-reserve (discussion)
+* Darlene L. Brooks Hedstrom, “Monks Baking Bread and Salting Fish: An Archaeology of Early Monastic Taste,” in _Knowing Bodies, Passionate Souls: Sense Perceptions in Byzantium_, ed. Susan Ashbrook Harvey and Margaret Mullett (Washington, D.C.: Dumbarton Oaks Research Library and Collection, 2017). e-reserve (discussion)
 * Susan Ashbrook Harvey, “Sanctity and Stench,” in _Scenting Salvation: Ancient Christianity and the Olfactory Imagination_ (Berkeley: University of California Press, 2006). eBook (discussion)
 
 Please submit Assignment 8.
