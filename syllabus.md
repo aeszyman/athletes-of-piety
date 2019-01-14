@@ -32,7 +32,7 @@ In this seminar, students will explore ways in which a system of beliefs and val
 * The Lives of Simeon Stylites, trans. Robert Doran (Kalamazoo, Mich.: Cistercian Publications, c1992). ISBN: 0879075120
 * Kate L. Turabian, Student’s Guide to Writing College Papers (Chicago; London: The University of Chicago Press, 2010). ISBN: 0226816311
 ## Course Materials
-Course materials are available on GitHub. To access them, you need to create a free GitHub account.
+Course materials are available on GitHub. You can access them [here](https://github.com/aeszyman/athletes-of-piety).
 ## Weekly Work
 Weekly Work consists of how you prepare to participate actively. It involves reading actively and responding critically to that reading in writing.
 ## Reading
@@ -115,6 +115,6 @@ Please watch [“Rome Reborn”](https://www.youtube.com/watch?v=e_phjB19ZEg).
 
 Please submit Self-Introduction and Assignment 1.
 ###### Week 2
-January 21: No Class: Martin Luther King Jr. Day
+**January 21: No Class: Martin Luther King Jr. Day
 
 Service Opportunity: East End Cemetery – Clear brush and restore pathways at a traditional African American cemetery in the East End that has suffered decades of neglect. Click [here](https://richmond.givepulse.com/event/95826) to register.
