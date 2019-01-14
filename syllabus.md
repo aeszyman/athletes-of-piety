@@ -20,7 +20,7 @@ To schedule an appointment, please email the instructor.
 ## Goals
 
 First-Year Seminars (FYS) provide students with a hands-on introduction to academic inquiry. All seminars provide opportunities for critical reading and thinking and establish a foundation for effective written and oral communication skills, information literacy, and library research skills. All FYS Seminars have the same five common goals:
-* expand and depend students' understanding of the world and of themselves
+* expand and deepen students' understanding of the world and of themselves
 * enhance students' ability to read and think critically
 * enhance students' ability to communicate effectively, in writing, speech, and other appropriate forms
 * develop the fundamentals of information literacy and library research
