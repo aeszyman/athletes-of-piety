@@ -184,7 +184,7 @@ Please submit Timeline.js.
 **February 20: Pilgrimage and the Cult of Relics in the Holy Land**
 
 * Derek Krueger, “The Religion of Relics in Late Antiquity and Byzantium,” in _Treasures of Heaven: Saints, Relics, and Devotion in Medieval Europe_, ed. Martina Bagnoli, Holger A. Klein, C. Griffith Mann, and James Robinson (Baltimore: Walters Art Museum, 2010). e-reserve (discussion)
-* Jaś Elsner, “Relics, Icon, and Architecture: The Material Articulation of the Holy in East Christian Art,” in _Saints and Sacred Matter: The Cult of Relics in Byzantium and Beyond_, ed. Cynthia Hahn and Holger A. Klein (Washington, D.C.: Dumbarton Oaks Research Library and Collection, 2015). e-reserve (discussion)
+* Jaś Elsner, “Relics, Icon, and Architecture: The Material Articulation of the Holy in East Christian Art,” in _Saints and Sacred Matter: The Cult of Relics in Byzantium and Beyond_, ed. Cynthia Hahn and Holger A. Klein (Washington, DC: Dumbarton Oaks Research Library and Collection, 2015). e-reserve (discussion)
 * Georgia Frank, “Pilgrimage,” in _The Oxford Handbook of Early Christian Studies_, ed. Susan Ashbrook Harvey and David G. Hunter (Oxford; New York: Oxford University Press, 2008). e-reserve (discussion)
 * Philip Wood, “Syriac and the Syrians,” in _The Oxford Handbook of Late Antiquity_, ed. Scott Fitzgerald Johnson (Oxford; New York: Oxford University Press, c2012). eBook (background)
 
