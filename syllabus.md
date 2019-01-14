@@ -118,3 +118,11 @@ Please submit Self-Introduction and Assignment 1.
 **January 21: No Class: Martin Luther King Jr. Day**
 
 Service Opportunity: East End Cemetery – Clear brush and restore pathways at a traditional African American cemetery in the East End that has suffered decades of neglect. Click [here](https://richmond.givepulse.com/event/95826) to register.
+
+**January 23: Early Christianity**
+
+* Linda Woodhead, “Beliefs, Rituals, and Narratives,” in Christianity: A Very Short Introduction (Oxford University Press, 2014). eBook (background)
+* Robin M. Jensen, “Pictorial Typologies and Visual Exegesis,” in Understanding Early Christian Art (London; New York: Routledge, 2000). e-reserve (discussion)
+* Robin M. Jensen, “Baptismal Rites and Architecture,” in Late Ancient Christianity, ed. Virginia Burrus (Minneapolis: Fortress Press, c2005). e-reserve (assignment + discussion)
+
+Please submit Assignment 2.
