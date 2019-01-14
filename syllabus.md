@@ -277,7 +277,7 @@ Please submit Assignment 10.
 
 * Chrysi Kotsfiou, “Books and Book Production in the Monastic Communities of Byzantine Egypt,” in _The Early Christian Book_, ed. William E. Klingshirn and Linda Safran (Washington, D.C.: Catholic University of America Press, c2007). eBook (background)
 * Claudia Rapp, “Holy Texts, Holy Men, and Holy Scribes,” in _The Early Christian Book_, ed. William E. Klingshirn and Linda Safran (Washington, D.C.: Catholic University of America Press, c2007). eBook (discussion)
-* Paul Dilley, “Dipinti in Late Antiquity and Shenoute’s Monastic Federation: Text and Image in the Paintings of the Red Monastery,” _Zeitschrift für Papyrologie und Epigraphik_ 165 (2008): 111-128. Boatwright catalog
+* Paul Dilley, “Dipinti in Late Antiquity and Shenoute’s Monastic Federation: Text and Image in the Paintings of the Red Monastery,” _Zeitschrift für Papyrologie und Epigraphik_ 165 (2008): 111-128. Boatwright catalog (discussion)
 * Ann Marie Yasin, “Prayers on Site: The Materiality of Devotional Graffiti and the Production of Early Christian Sacred Space,” in _Viewing Inscriptions in the Late Antique and Medieval World_ (Cambridge University Press, 2015). e-reserve (discussion)
 
 Please submit Assignment 11.
