@@ -107,4 +107,4 @@ Please read the syllabus and schedule an appointment with the instructor.
 
 **January 16: Late Antiquity**
 
-Please watch [“Rome Reborn”](https://www.youtube.com/watch?v=e_phjB19ZEg).
+Please watch [“Rome Reborn.”](https://www.youtube.com/watch?v=e_phjB19ZEg)
