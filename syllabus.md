@@ -73,7 +73,7 @@ For each discussion reading, students will prepare a reading response. A reading
 # Participation
 It is expected that you will attend all classes, that you will prepare for classes ahead of time, that you will participate actively in class activities and discussions, and that you will take detailed notes. I will take attendance at the beginning of each class session. Absences and persistent lateness will be duly noted and will negatively affect your final grade. Should you be absent for any reason, it is your responsibility to make up the content covered in class. You are encouraged to get help from other students in class. Ask to borrow notes and discuss what you missed. If you need further clarification, please see the instructor. Participation grade includes reading responses.
 # Short Writing Assignments
-There will be eleven short writing assignments in this class. They will be based on the discussion readings.
+There will be eleven short writing assignments in this class. They will be based on the assigned readings.
 # Timeline.js
 Students will create a collaborative timeline of the Life of Antony using [Timeline.js](https://timeline.knightlab.com/). More details will follow.
 # Papers
