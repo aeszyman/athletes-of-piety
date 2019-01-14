@@ -156,7 +156,7 @@ Please submit Assignment 3.
 
 **February 6: _Life of Antony_**
 
-* William Harmless, “The Life of Antony: Text and Context,” in _Desert Christians: An Introduction to the Literature of Early Monasticism_ (Oxford University Press, 2004). eBook (background)
+* William Harmless, “The _Life of Antony_: Text and Context,” in _Desert Christians: An Introduction to the Literature of Early Monasticism_ (Oxford University Press, 2004). eBook (background)
 * _Life of Antony_, Preface and Chapters 1-48. required text (assignment)
 
 Please submit Assignment 4.
