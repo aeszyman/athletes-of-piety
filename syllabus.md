@@ -93,7 +93,7 @@ The research paper will consist of four components.
 | Annotated Bibliography and Outline | March 25 |
 | Final Research Paper | April 8 |
 
-The instructor will give students detailed feedback on each paper. Students will then have a week to revise and resubmit. The resubmission of revised papers is optional, but highly recommended.
+The instructor will give students detailed feedback on each paper. Students will then have a week to revise and resubmit. If you need more time, please let the instructor know your timeline. The resubmission of revised papers is optional, but highly recommended.
 # Oral Presentation
 Students will give a fifteen-minute presentation in pairs. I will distribute a list of topics from which you can choose.
 # Final Portfolio
