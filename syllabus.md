@@ -193,7 +193,7 @@ Please submit Paper 1.
 **February 27: _The Lives of Simeon Stylites_**
 
 * William Harmless, “Symeon the Stylite and Syrian Asceticism,” in _Desert Christians: An Introduction to the Literature of Early Monasticism_ (Oxford University Press, 2004), 426-428. eBook (background)
-_The Life of Saint Simeon Stylites_ by Theodoret, Bishop of Cyrrhus. required text (assignment)
+*_The Life of Saint Simeon Stylites_ by Theodoret, Bishop of Cyrrhus. required text (assignment)
 
 Please submit Assignment 6.
 
