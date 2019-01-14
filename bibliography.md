@@ -10,7 +10,7 @@ Clark, Gillian. _Late Antiquity: A Very Short Introduction_. Oxford University P
 
 Davis, Stephen J. _Monasticism: A Very Short Introduction_. Oxford University Press, 2018.
 
-Dilley, Paul. “Dipinti in Late Antiquity and Shenoute’s Monastic Federation: Text and Image in the Paintings of the Red Monastery.” _Zeitschrift für Papyrologie und Epigraphik_ 165 (2008): 111-128.
+Dilley, Paul. “_Dipinti_ in Late Antiquity and Shenoute’s Monastic Federation: Text and Image in the Paintings of the Red Monastery.” _Zeitschrift für Papyrologie und Epigraphik_ 165 (2008): 111-128.
 
 Eastmond, Antony, ed. _Viewing Inscriptions in the Late Antique and Medieval World_. Cambridge University Press, 2015.
 
