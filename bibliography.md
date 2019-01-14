@@ -32,7 +32,7 @@ Harmless, William. _Desert Christians: An Introduction to the Literature of Earl
 
 Harvey, Susan Ashbrook and David G. Hunter, eds. _The Oxford Handbook of Early Christian Studies_. Oxford; New York: Oxford University Press, 2008.
 
-Harvey, Susan Ashbrook and Margaret Mullett, eds. _Knowing Bodies, Passionate Souls: Sense Perceptions in Byzantium_. Washington, DC: Dumbarton Oaks Research Library and Collection, 2017.
+Harvey, Susan Ashbrook and Margaret Mullett, eds. _Knowing Bodies, Passionate Souls: Sense Perceptions in Byzantium_. Washington, D.C.: Dumbarton Oaks Research Library and Collection, 2017.
 
 Harvey, Susan Ashbrook. _Scenting Salvation: Ancient Christianity and the Olfactory Imagination_. Berkeley: University of California Press, 2006.
 
