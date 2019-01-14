@@ -75,7 +75,7 @@ It is expected that you will attend all classes, that you will prepare for class
 # Short Writing Assignments
 There will be eleven short (1-2 pages double-spaced) writing assignments in this class.
 # Timeline.js
-Students will create a collaborative timeline of the Life of Antony using [Timeline.js](https://timeline.knightlab.com/). More details will follow.
+Students will create a collaborative timeline of the _Life of Antony_ using [Timeline.js](https://timeline.knightlab.com/). More details will follow.
 # Papers
 Students will submit three papers in this course.
 
