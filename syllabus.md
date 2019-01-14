@@ -99,3 +99,5 @@ You will turn in a “portfolio” of the work you have done throughout the seme
 | 94-97% = A | 84-87 = B | 74-77% = C | 64-67% = D |
 | 90-94% = A- | 80-84% = B- | 70-74% = C- | 60-64% = D- |
 # Course Schedule
+_subject to change_
+###### Week 1
