@@ -232,6 +232,8 @@ Please submit Paper 2.
 ###### Week 11
 **March 25: Film _Agora_**
 
+Please watch film _Agora_.
+
 Please submit Annotated Bibliography.
 
 **March 27: Body and the Senses**
