@@ -51,7 +51,7 @@ Class discussions will focus on Discussion and Assignment Readings.
 
 ## Reading Responses
 
-1 page, double-spaced
+1 page double-spaced
 
 Please upload to Richmond Box.
 
