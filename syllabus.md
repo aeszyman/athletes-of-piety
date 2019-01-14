@@ -267,7 +267,7 @@ Please submit Final Research Paper.
 
 * David Brakke, “Manly Women, Female Demons, and Other Amazing Sights: Gender in Combat,” in _Demons and the Making of the Monk: Spiritual Combat in Early Christianity_ (Cambridge, Mass.: Harvard University Press, 2006). e-reserve (discussion)
 * David Frankfurter, “An Architecture for Chaos: The Nature and Function of Demonology,” in _Evil Incarnate: Rumors of Demonic Conspiracy and Ritual Abuse in History_ (Princeton, N.J.; Woodstock: Princeton University Press, 2008). e-reserve (discussion)
-* Evagrius of Pontus, “Against the Thoughts of Fornication,” in _Talking Back: A Monastic Handbook for Combating Demons_, trans. David Brakke (Liturgical Press, 2009). GitHub (discussion)
+* Evagrius of Pontus, “Against the Thoughts of Fornication,” in _Talking Back: A Monastic Handbook for Combating Demons_, trans. David Brakke (Liturgical Press, 2009). GitHub (assignment)
 * Eunice Dauterman Maguire, Henry Maguire, and Maggie J. Duncan-Flowers, _Art and Holy Powers in the Early Christian House_ (Krannert Art Museum, University of Illinois at Urbana-Champaign, 1989). GitHub (background)
 
 Please submit Assignment 10.
