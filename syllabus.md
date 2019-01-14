@@ -237,11 +237,13 @@ Please submit Assignment 8.
 
 ###### Week 12
 **April 1: Writing Workshop**
+
 Kate L. Turabian, “Planning Your Argument,” “Planning a First Draft,” “Drafting Your Paper,” “Preventing Plagiarism,” “Revising Your Draft,” “Writing Your Final Introduction and Conclusion,” “Revising Sentences,” “Learning from Your Returned Paper,” “On the Spirit of Research,” and “Citations,” in _Student’s Guide to Writing College Papers_ (Chicago; London: The University of Chicago Press, 2010). required text (background)
 
 Please submit Research Paper Outline.
 
 **April 3: Gender and Sexuality**
+
 * Elizabeth A. Clark, “Asceticism, Gender, and Class,” in _Late Ancient Christianity_, ed. Virginia Burrus (Minneapolis: Fortress Press, c2005). e-reserve (background)
 * Aline Rousselle, “Salvation by Child Sacrifice and Castration,” in _Porneia: On Desire and the Body in Antiquity_ (Wipf and Stock Publishers, 2013). GitHub (discussion)
 * David Brakke, “The Problematization of Nocturnal Emission in Early Christian Syria, Egypt, and Gaul,” _Journal of Early Christian Studies_ 3.4 (1995). Boatwright catalogue (discussion)
