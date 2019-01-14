@@ -6,7 +6,7 @@ If you experience difficulties in this course, do not hesitate to consult with m
 
 [**Career Services**](http://careerservices.richmond.edu/) (289-8547): Can assist you in exploring your interests and abilities, choosing a major or course of study, connecting with internships and jobs, and investigating graduate and professional school options. We encourage you to schedule an appointment with a career advisor early in your time at UR.
 
-[**Counseling and Psychological Services**](http://wellness.richmond.edu/offices/caps/) (289-8119): Assists currently enrolled, full-time, degree-seeking students in improving their mental health and well-being, and in handling challenges that may impede their growth and development. Services include short-term counseling and psychotherapy, crisis intervention, psychiatric consultation, and related services.
+[**Counseling and Psychological Services**](https://wellness.richmond.edu/caps/index.html) (289-8119): Assists currently enrolled, full-time, degree-seeking students in improving their mental health and well-being, and in handling challenges that may impede their growth and development. Services include short-term counseling and psychotherapy, crisis intervention, psychiatric consultation, and related services.
 
 [**Disability Services**](https://disability.richmond.edu/students/index.html) (289.8032): The Office of Disability Services 
 works to ensure that qualified students with a disability (whether incoming or current) are provided with reasonable accommodations that enable that student to participate fully in activities, programs, services and benefits provided to all students. Please let your professors know as soon as possible if you have an accommodation that requires academic coordination and planning.
