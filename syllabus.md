@@ -115,7 +115,7 @@ Please read the syllabus and schedule an appointment with the instructor.
 
 Please watch [“Rome Reborn”](https://www.youtube.com/watch?v=e_phjB19ZEg).
 
-* Glen Warren Bowersock, Peter Brown, and Oleg Grabar, “Introduction,” in _Interpreting Late Antiquity: Essays on the Postclassical World_ (Harvard University Press, 2001). GitHub
+* Glen Warren Bowersock, Peter Brown, and Oleg Grabar, “Introduction,” in _Interpreting Late Antiquity: Essays on the Postclassical World_ (Harvard University Press, 2001). GitHub (background)
 * Gillian Clark, “What and When Is Late Antiquity?”, in _Late Antiquity: A Very Short Introduction_ (Oxford University Press, 2013). eBook (discussion)
 * Michael Maas, ed., “The Sack of Rome, AD 410,” in _Readings in Late Antiquity: A Sourcebook_ (London; New York: Routledge, 2000). GitHub (assignment)
 
