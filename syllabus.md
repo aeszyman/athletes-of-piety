@@ -102,7 +102,9 @@ You will turn in a “portfolio” of the work you have done throughout the seme
 _subject to change_
 ###### Week 1
 **January 14: Course Introduction**
+
 Please read the syllabus and schedule an appointment with the instructor.
 
 **January 16: Late Antiquity**
-Please watch [“Rome Reborn”](https://www.youtube.com/watch?v=e_phjB19ZEg)
+
+Please watch [“Rome Reborn”].(https://www.youtube.com/watch?v=e_phjB19ZEg)
