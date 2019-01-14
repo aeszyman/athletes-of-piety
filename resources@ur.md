@@ -8,7 +8,7 @@ If you experience difficulties in this course, do not hesitate to consult with m
 
 [**Counseling and Psychological Services**](https://wellness.richmond.edu/caps/index.html) (289-8119): Assists currently enrolled, full-time, degree-seeking students in improving their mental health and well-being, and in handling challenges that may impede their growth and development. Services include short-term counseling and psychotherapy, crisis intervention, psychiatric consultation, and related services.
 
-[**Disability Services**](https://disability.richmond.edu/students/index.html) (289.8032): The Office of Disability Services 
+[**Disability Services**](https://disability.richmond.edu/students/index.html) (289-8032): The Office of Disability Services 
 works to ensure that qualified students with a disability (whether incoming or current) are provided with reasonable accommodations that enable that student to participate fully in activities, programs, services and benefits provided to all students. Please let your professors know as soon as possible if you have an accommodation that requires academic coordination and planning.
 
 [**Speech Center**](http://speech.richmond.edu) (289-6409): Assists with preparation and practice in the pursuit of excellence in public expression. Recording, playback, coaching and critique sessions offered by teams of student consultants trained to assist in developing ideas, arranging key points for more effective organization, improving style and delivery, and handling multimedia aids for individual and group presentations.
