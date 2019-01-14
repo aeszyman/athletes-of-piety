@@ -13,4 +13,4 @@ works to ensure that qualified students with a disability (whether incoming or c
 
 [**Speech Center**](http://speech.richmond.edu) (289-6409): Assists with preparation and practice in the pursuit of excellence in public expression. Recording, playback, coaching and critique sessions offered by teams of student consultants trained to assist in developing ideas, arranging key points for more effective organization, improving style and delivery, and handling multimedia aids for individual and group presentations.
 
-[**Writing Center**] (289-8263): Assists writers at all levels of experience, across all majors. Students can schedule appointments with trained writing consultants who offer friendly critiques of written work.
+[**Writing Center**](http://writing.richmond.edu) (289-8263): Assists writers at all levels of experience, across all majors. Students can schedule appointments with trained writing consultants who offer friendly critiques of written work.
