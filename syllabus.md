@@ -107,4 +107,10 @@ Please read the syllabus and schedule an appointment with the instructor.
 
 **January 16: Late Antiquity**
 
-Please watch [“Rome Reborn.”](https://www.youtube.com/watch?v=e_phjB19ZEg)
+Please watch [“Rome Reborn”](https://www.youtube.com/watch?v=e_phjB19ZEg).
+
+* Glen Warren Bowersock, Peter Brown, and Oleg Grabar, “Introduction,” in Interpreting Late Antiquity: Essays on the Postclassical World (Harvard University Press, 2001). GitHub
+* Gillian Clark, “What and When Is Late Antiquity?”, in Late Antiquity: A Very Short Introduction (Oxford University Press, 2013). eBook (discussion)
+* Michael Maas, ed., “The Sack of Rome, AD 410,” in Readings in Late Antiquity: A Sourcebook (London; New York: Routledge, 2000). GitHub (assignment + discussion)
+
+Please submit Self-Introduction and Assignment 1.
