@@ -211,6 +211,7 @@ Please submit Mid-Semester Self-Evaluation and schedule an appointment with the 
 Please submit Assignment 7.
 
 **March 6: Film _Simon of the Desert_**
+
 Please submit Research Topic and Question.
 
 ###### Week 9
