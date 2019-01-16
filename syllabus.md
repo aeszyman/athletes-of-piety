@@ -32,7 +32,7 @@ In this seminar, students will explore ways in which a system of beliefs and val
 ## Required Texts
 * Athanasios of Alexandria, _Life of Antony_, trans. Robert C. Gregg (New York: Paulist Press, c1980). ISBN: 0809122952
 * _The Lives of Simeon Stylites_, trans. Robert Doran (Kalamazoo, Mich.: Cistercian Publications, c1992). ISBN: 0879075120
-* Kate L. Turabian, _Student’s Guide to Writing College Papers_ (Chicago; London: The University of Chicago Press, 2010). ISBN: 0226816311
+* Kate L. Turabian, _Student's Guide to Writing College Papers_ (Chicago; London: The University of Chicago Press, 2010). ISBN: 0226816311
 ## Course Materials
 Course materials are available on GitHub. You can access them [here](https://github.com/aeszyman/athletes-of-piety).
 ## Weekly Work
