@@ -183,7 +183,7 @@ Please submit Timeline.js.
 ###### Week 7
 **February 20: Pilgrimage and the Cult of Relics in the Holy Land**
 
-* Derek Krueger, “The Religion of Relics in Late Antiquity and Byzantium,” in _Treasures of Heaven: Saints, Relics, and Devotion in Medieval Europe_, ed. Martina Bagnoli, Holger A. Klein, C. Griffith Mann, and James Robinson (Baltimore: Walters Art Museum, 2010). e-reserve (discussion)
+* Derek Krueger, “The Religion of Relics in Late Antiquity and Byzantium,” in _Treasures of Heaven: Saints, Relics, and Devotion in Medieval Europe_, ed. Martina Bagnoli, Holger A. Klein, C. Griffith Mann, and James Robinson (Baltimore: Walters Art Museum, 2010). reserve (discussion)
 * Jaś Elsner, “Relics, Icon, and Architecture: The Material Articulation of the Holy in East Christian Art,” in _Saints and Sacred Matter: The Cult of Relics in Byzantium and Beyond_, ed. Cynthia Hahn and Holger A. Klein (Washington, D.C.: Dumbarton Oaks Research Library and Collection, 2015). e-reserve (discussion)
 * Georgia Frank, “Pilgrimage,” in _The Oxford Handbook of Early Christian Studies_, ed. Susan Ashbrook Harvey and David G. Hunter (Oxford; New York: Oxford University Press, 2008). e-reserve (discussion)
 * Philip Wood, “Syriac and the Syrians,” in _The Oxford Handbook of Late Antiquity_, ed. Scott Fitzgerald Johnson (Oxford; New York: Oxford University Press, c2012). eBook (background)
@@ -194,6 +194,7 @@ Please submit Paper 1.
 
 * William Harmless, “Symeon the Stylite and Syrian Asceticism,” in _Desert Christians: An Introduction to the Literature of Early Monasticism_ (Oxford University Press, 2004), 426-428. eBook (background)
 * _The Life of Saint Simeon Stylites_ by Theodoret, Bishop of Cyrrhus. required text (assignment)
+* _The Life and Daily Mode of Living of Blessed Simeon the Stylite_ by Antonios. required text (assignment)
 
 Please submit Assignment 6.
 
@@ -204,7 +205,6 @@ Please submit Mid-Semester Self-Evaluation and schedule an appointment with the 
 ###### Week 8
 **March 4: _The Lives of Simeon Stylites_**
 
-* _The Life and Daily Mode of Living of Blessed Simeon the Stylite_ by Antonios. required text (assignment)
 * _The Syriac Life of Saint Simeon Stylites_. required text (assignment)
 * Brandie Ratliff, “The Stylites of Syria,” in _Byzantium and Islam: Age of Transition_, ed. Helen C. Evans and Brandie Ratliff (New Haven, Conn.; London: Yale University Press, 2012). e-reserve (background)
 
