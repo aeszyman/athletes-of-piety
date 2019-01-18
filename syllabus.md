@@ -232,7 +232,7 @@ Please submit Paper 2.
 ###### Week 11
 **March 25: Film _Agora_**
 
-Please watch film _Agora_ in advance and be ready to discuss it in class. For viewing _Agora_ in the library, students have a few options - they can watch it individually, or watch it in small groups in the MRC viewing room or a library study room. They can book rooms here. The library has dvd players students can check out at the main service desk and hook up in any of the study rooms.
+Please watch film _Agora_ in advance and be ready to discuss it in class. For viewing _Agora_ in the library, students have a few options - they can watch it individually, or watch it in small groups in the[Media Resouce Center](https://library.richmond.edu/mrc/index.html) viewing room or a library study room. Students can book rooms [here](http://libcal.richmond.edu). The library has dvd players students can check out at the main service desk and hook up in any of the study rooms.
 
 Please submit Annotated Bibliography.
 
