@@ -181,7 +181,7 @@ Please submit Assignment 5.
 Please submit Timeline.js.
 
 ###### Week 7
-**February 20: Pilgrimage and the Cult of Relics in the Holy Land**
+**February 25: Pilgrimage and the Cult of Relics in the Holy Land**
 
 * Derek Krueger, “The Religion of Relics in Late Antiquity and Byzantium,” in _Treasures of Heaven: Saints, Relics, and Devotion in Medieval Europe_, ed. Martina Bagnoli, Holger A. Klein, C. Griffith Mann, and James Robinson (Baltimore: Walters Art Museum, 2010). reserve (discussion)
 * Jaś Elsner, “Relics, Icon, and Architecture: The Material Articulation of the Holy in East Christian Art,” in _Saints and Sacred Matter: The Cult of Relics in Byzantium and Beyond_, ed. Cynthia Hahn and Holger A. Klein (Washington, D.C.: Dumbarton Oaks Research Library and Collection, 2015). e-reserve (discussion)
