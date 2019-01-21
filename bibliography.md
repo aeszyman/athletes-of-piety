@@ -54,6 +54,8 @@ Maguire, Eunice Dauterman, Henry Maguire, and Maggie J. Duncan-Flowers. _Art and
 
 Martin, Dale B. and Patricia Cox Miller, eds. _The Cultural Turn in Late Ancient Studies: Gender, Asceticism, and Historiography_. Durham: Duke University Press, 2005.
 
+Newby, Zahra. _Greek Athletics in the Roman World: Victory and Virtue_. Oxford; New York: Oxford University Press, 2005.
+
 Nixey, Catherine. _The Darkening Age: The Christian Destruction of the Classical World_. Boston: Houghton Mifflin Harcourt, 2018.
 
 Rousselle, Aline. _Porneia: On Desire and the Body in Antiquity_. Wipf and Stock Publishers, 2013.
