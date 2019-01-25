@@ -149,6 +149,8 @@ Please submit Assignment 3.
 ###### Week 4
 **February 4: Late Antique Egypt: The Cradle of Monasticism**
 
+Class Visit: Rosina D'Angelo
+
 * William Harmless, “Roman Egypt,” in _Desert Christians: An Introduction to the Literature of Early Monasticism_ (Oxford University Press, 2004). eBook (background)
 * Arietta Papaconstantinou, “Egypt,” in _The Oxford Handbook of Late Antiquity_, ed. Scott Fitzgerald Johnson (Oxford; New York: Oxford University Press, c2012). eBook (background)
 * Thelma K. Thomas, “Egyptian Art of Late Antiquity,” in _A Companion to Ancient Egypt_ (John Wiley & Sons, 2010). GitHub (background)
