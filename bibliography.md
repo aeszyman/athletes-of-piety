@@ -44,6 +44,8 @@ Johnson, Scott Fitzgerald, ed. _The Oxford Handbook of Late Antiquity_. Oxford; 
 
 Klingshirn, William E. and Linda Safran, eds. _The Early Christian Book_. Washington, D.C.: Catholic University of America Press, c2007.
 
+Kyle, Donald G. _Sport and Spectacle in the Ancient World_. Chichester, West Sussex, UK: John Wiley and Sons, Inc., 2015.
+
 Lazaridou, Anastasia. _Transition to Christianity: Art of Late Antiquity, 3rd-7th century AD_. [New York, N.Y.]: Alexander S. Onassis Public Benefit Foundation; [Athens]: Byzantine & Christian Museum, [2012].
 
 Lloyd, Alan B. _A Companion to Ancient Egypt_. John Wiley & Sons, 2010.
