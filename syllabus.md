@@ -176,6 +176,8 @@ Please submit Assignment 5.
 ###### Week 6
 **February 18: Library Research**
 
+We will meet in Seminar Room 1 in the library. Enter and go forward through the collaborative area on the first floor, to the back left corner.
+
 **February 20: Writing Workshop**
 
 * Kate L. Turabian, “Introduction: Why Research?”, “What Researchers Do, and How They Think about It,” “Finding a Research Question,” “Planning for an Answer,” and “Finding Useful Sources,” in _Student’s Guide to Writing College Papers_ (Chicago; London: The University of Chicago Press, 2010). required text (background)
