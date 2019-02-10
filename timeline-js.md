@@ -17,6 +17,7 @@ Please complete the following for both chapters:
 ## Essay
 
 1-2 pages double spaced
+
 due February 20
 
 Study our collaborative TimelineJS based on the _Life of Antony_. Choose one data point (other than your own) that you think is excellent. Choose another data point (other than your own) that you think is poor. In your essay, write a justification for both choices. What is excellent about the excellent data point? What is poor about the poor data point? Next, write an analysis of the entire TimelineJS. Is there a theme that emerges? Does the timeline reveal your and your collaborators' particular interests? What portrait of Antony and asceticism does the timeline convey? What is the _Life of Antony_ as shaped by you and your fellow classmates?
