@@ -4,7 +4,7 @@ This assignment consists of a digital component and short essay.
 
 ## Digital Component
 
-due February 13
+due February 14
 
 Select two chapters from the _Life of Antony_ that stood out to you. One chapter should come from the first half of the book (chapters 1-48) and the other from the second (chapters 49-94).
 
