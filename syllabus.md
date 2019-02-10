@@ -164,14 +164,14 @@ Class Visit: Rosina D'Angelo
 Please submit Assignment 4.
 
 ###### Week 5
-**February 11: Timeline.js**
+**February 11: TimelineJS**
 
 **February 13: _Life of Antony_**
 
 * William Harmless, “The _Life of Antony_: Themes and Influence,” in _Desert Christians: An Introduction to the Literature of Early Monasticism_ (Oxford University Press, 2004). eBook (background)
 * _Life of Antony_, Chapters 49-94. required text (assignment)
 
-Please submit Assignment 5.
+Please submit Assignment 5 and the digital part of the TimelineJS assignment.
 
 ###### Week 6
 **February 18: Library Research**
@@ -182,7 +182,7 @@ We will meet in Seminar Room 1 in the library. Enter and go forward through the 
 
 * Kate L. Turabian, “Introduction: Why Research?”, “What Researchers Do, and How They Think about It,” “Finding a Research Question,” “Planning for an Answer,” and “Finding Useful Sources,” in _Student’s Guide to Writing College Papers_ (Chicago; London: The University of Chicago Press, 2010). required text (background)
 
-Please submit Timeline.js.
+Please submit the essay part of the TimelineJS assignment.
 
 ###### Week 7
 **February 25: Pilgrimage and the Cult of Relics in the Holy Land**
