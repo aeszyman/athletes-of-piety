@@ -173,7 +173,7 @@ Please submit Assignment 4.
 
 Please submit Assignment 5.
 
-**February 15
+**February 14
 
 Please submit the digital part of the TimelineJS assignment.
 
