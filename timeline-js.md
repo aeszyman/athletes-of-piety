@@ -1,4 +1,4 @@
-******TimelineJS
+# TimelineJS
 
 This assignment consists of a digital component and essay. Both are due on February 20.
 
