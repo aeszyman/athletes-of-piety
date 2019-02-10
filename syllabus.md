@@ -171,7 +171,11 @@ Please submit Assignment 4.
 * William Harmless, “The _Life of Antony_: Themes and Influence,” in _Desert Christians: An Introduction to the Literature of Early Monasticism_ (Oxford University Press, 2004). eBook (background)
 * _Life of Antony_, Chapters 49-94. required text (assignment)
 
-Please submit Assignment 5 and the digital part of the TimelineJS assignment.
+Please submit Assignment 5.
+
+**February 15
+
+Please submit the digital part of the TimelineJS assignment.
 
 ###### Week 6
 **February 18: Library Research**
