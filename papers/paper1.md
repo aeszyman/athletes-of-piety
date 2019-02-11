@@ -5,7 +5,7 @@
 
 due February 25
 
-In "The _Life of Antony_: Text and Context," William Harmless states: "The _Life of Antony_ is no modern biography. Closer in spirit to _Beowulf_ or, for that matter, _Raiders of the Lost Ark_, it is a tale of high adventure, of pitched battles against nefarious supernatural forces, set within an exotic landscape."
+In "The _Life of Antony_: Text and Context" (background reading), William Harmless states: "The _Life of Antony_ is no modern biography. Closer in spirit to _Beowulf_ or, for that matter, _Raiders of the Lost Ark_, it is a tale of high adventure, of pitched battles against nefarious supernatural forces, set within an exotic landscape."
 
 Do you agree or disagree with this statement? To answer this question, focus on a specific theme or motif in the _Life of Antony_. How does this theme or motif portray Antony and asceticism? Discuss at least two specific passages from the _Life of Antony_ that illustrate this theme or motif. Focus on how the selected passages express the theme or motif you have identified.
 
