@@ -16,7 +16,7 @@ Please complete the following for both chapters:
 
 ## Essay
 
-1-2 pages double spaced
+1-2 pages double-spaced
 
 due February 20
 
