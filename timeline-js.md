@@ -1,4 +1,4 @@
-# TimelineJS
+# [TimelineJS](https://timeline.knightlab.com)
 
 This assignment consists of a digital component and short essay.
 
