@@ -175,7 +175,7 @@ Please submit Assignment 5.
 
 **February 14**
 
-Please submit the digital part of the TimelineJS assignment.
+Please submit the digital part of the TimelineJS assignment by 5 pm.
 
 ###### Week 6
 **February 18: Library Research**
