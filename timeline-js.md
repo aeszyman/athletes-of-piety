@@ -12,7 +12,7 @@ Please complete the following for both chapters:
 1. Write a concise analytical synopsis.
 2. Provide a spiffy title.
 3. Find an image or meme that captures the narrative's main point. The analytical synopsis (cf. number 1 above) should include an explicative reference to the image or meme.
-4. Enter your data in our collaborative Google Sheet.
+4. Enter your data in our collaborative Google Spreadsheet.
 
 ## Essay
 
