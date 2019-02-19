@@ -1,6 +1,5 @@
 ## Research Project
-
-The research project will consist of three components.
+The research project consists of three components.
 
 | Component | Due Date |
 | ------------- | ------------- |
