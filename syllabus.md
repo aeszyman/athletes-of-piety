@@ -83,9 +83,9 @@ Students will submit three papers in this course.
 | ------------- | ------------- | ------------- | ------------- |
 | Paper 1 | 4-5 pages double-spaced | February 25 | 10% |
 | Paper 2 | 4-5 pages double-spaced | March 20 | 10% |
-| Research Project | April 8 | 20% |
+| Research Project | 3 components | April 8 | 20% |
 
-The research project will consist of four components.
+The research project will consist of three components.
 
 | Component | Due Date |
 | ------------- | ------------- |
