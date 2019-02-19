@@ -3,13 +3,11 @@ The research project consists of three components.
 
 | Component | Due Date |
 | ------------- | ------------- |
-| Research Topic and Question | March 6 |
+| Research Question | March 6 |
 | Annotated Bibliography and Outline | March 25 |
 | Final Research Paper | April 8 |
 
-## Research Topic and Question
-
-## Possible Topics
+## Possible Research Topics
 
 1. Historicizing Asceticism
 If you choose this option, your task wil be to undertake a research project about a historical aspect of asceticism. You can focus on a historical figure, e.g. Pachomios, or a historical place, e.g. Monastery of Saint Catherine in Sinai, or an archaeological site, e.g. Kellia.
@@ -27,3 +25,5 @@ If you choose this option, your initial task will be to identify a modern concep
 If you choose this option, your task will be to compose a vita of a monastic saint. Your vita has to incorporate structural elements of the late antique prototype.
 
 You are welcome to work on a different topic, but your proposed topic will have to obtain the instructor's approval.
+
+## Research Question
