@@ -9,7 +9,7 @@ The research project consists of three components.
 
 ## Research Topic and Question
 
-Possible Topics:
+## Possible Topics
 
 1. Historicizing Asceticism
 If you choose this option, your task wil be to undertake a research project about a historical aspect of asceticism. You can focus on a historical figure, e.g. Pachomios, or a historical place, e.g. Monastery of Saint Catherine in Sinai, or an archaeological site, e.g. Kellia.
