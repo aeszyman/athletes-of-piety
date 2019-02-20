@@ -27,7 +27,7 @@ If you choose this option, your initial task will be to identify a modern concep
 
 5. **Writing Asceticism**
 
-If you choose this option, your task will be to compose a vita of a monastic saint. Your vita has to incorporate structural elements of the late antique prototype.
+If you choose this option, your task will be to compose a vita of a monastic saint. Your vita has to incorporate structural elements of the late antique prototype. You will have to support your vita with secondary and tertiary sources.
 
 If you want to work on a different topic, you will have to obtain the instructor's approval.
 
