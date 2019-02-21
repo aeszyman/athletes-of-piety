@@ -32,7 +32,7 @@ If you choose this option, your task will be to compose a vita of a monastic sai
 If you want to work on a different topic, you will have to obtain the instructor's approval.
 
 ## Research Question
-1-2 sentences
+3 sentences
 
 Research questions help writers focus their research by providing a path through the research and writing process. The specificity of a well-developed research question helps writers avoid the “all-about” paper and work toward supporting a specific, arguable thesis. A research question is the question around which you center your research. It should be:
 * **clear**: it provides enough specifics that one’s audience can easily understand its purpose without needing additional explanation.
