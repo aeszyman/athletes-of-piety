@@ -1,4 +1,4 @@
-## Mid-Semmester Self-Evaluation
+## Mid-Semester Self-Evaluation
 
 1-2 pages double-spaced
 
