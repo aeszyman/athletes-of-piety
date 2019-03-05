@@ -220,6 +220,8 @@ Please submit Assignment 7.
 
 **March 6: Film _Simon of the Desert_**
 
+Marc Ripley, "Panic at the Disco? The Liminal Position in Luis Buñuel's _Simón del desierto_," _Hispanic Research Journal_ 16.1 (2015): 15-30. GitHub (bakcground)
+
 Please submit Research Topic and Question.
 
 ###### Week 9
