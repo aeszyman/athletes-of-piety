@@ -237,12 +237,12 @@ Please submit Research Topic and Question.
 * Christopher Haas, “Intercommunal Conflict during Late Antiquity,” in _Alexandria in Late Antiquity: Topography and Social Conflict_ (Baltimore: Johns Hopkins University Press, 2006). eBook (background)
 * Catherine Nixey, “The Most Magnificent Building in the World,” “To Despise the Temples,” and “How to Destroy a Demon,” in _The Darkening Age: The Christian Destruction of the Classical World_ (Boston: Houghton Mifflin Harcourt, 2018). e-reserve (discussion)
 
-Please submit Paper 2.
-
 ###### Week 11
 **March 25: Film _Agora_**
 
 Please watch film [_Agora_](https://www.imdb.com/title/tt1186830/) (on reserve) in advance and be ready to discuss it in class. For viewing _Agora_ in the library, students have a few options - they can watch it individually, or watch it in small groups in the [Media Resouce Center](https://library.richmond.edu/mrc/index.html) viewing room or a library study room. Students can book rooms [here](http://libcal.richmond.edu). The library has dvd players students can check out at the main service desk and hook up in any of the study rooms.
+
+Please submit Paper 2.
 
 Please submit Annotated Bibliography.
 
