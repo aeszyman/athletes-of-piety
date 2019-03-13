@@ -1,6 +1,8 @@
 ## Paper 2
 _The Lives of Simeon Stylites_
 
+due March 25
+
 4-5 pages double-spaced
 
 Choose one topic.
