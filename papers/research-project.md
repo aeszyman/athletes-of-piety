@@ -54,7 +54,7 @@ An annotated bibliography is a bibliography in which you include a short summary
 Click on this [link](http://libguides.richmond.edu/citingsources/annotatedbibs) for more information.
 
 The annotated bibliography for the research project in this course has to include ten sources. The final bibliography can, and indeed should, include more sources. The sources in the annotated bibliography have to be:
-* **primary** (two) and **secondary**
+* **primary** (at least two) and **secondary**
 
 Tertiary sources do not count, but you should use them. All sources (primary, secondary, and tertiary) have to be included in the bibliography for the final paper.
 * **scholarly** and **peer-reviewed**
