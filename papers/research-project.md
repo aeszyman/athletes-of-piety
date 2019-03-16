@@ -4,8 +4,9 @@ The research project consists of three components.
 | Component | Due Date |
 | ------------- | ------------- |
 | Research Question | March 6 |
-| Annotated Bibliography and Outline | March 25 |
-| Final Research Paper | April 8 |
+| Annotated Bibliography | March 27 |
+| Outline |
+| Research Paper | April 8 |
 
 ## Possible Research Topics
 
