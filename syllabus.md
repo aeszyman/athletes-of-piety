@@ -94,7 +94,7 @@ The research project will consist of three components.
 | Outline | April 1 |
 | Research Paper | April 8 |
 
-The instructor will give students detailed feedback on each paper. Students will then have a week to revise and resubmit. If you need more time, please let the instructor know your timeline. The resubmission of revised papers is optional, but highly recommended.
+I will give you detailed feedback on each paper. You will then have the option of revising and resubmitting each paper.
 # Oral Presentation
 Students will give a fifteen-minute presentation in pairs. I will distribute a list of topics from which you can choose.
 # Final Portfolio
