@@ -55,8 +55,10 @@ Click on this [link](http://libguides.richmond.edu/citingsources/annotatedbibs) 
 
 The annotated bibliography for the research project in this course has to include ten sources. The final bibliography can, and indeed should, include more sources. The sources in the annotated bibliography have to be:
 * **primary** (two) and **secondary**
+
 Tertiary sources do not count, but you should use them. If you do, you have to include them in the bibliography for the final paper.
 * **scholarly** and **peer-reviewed**
+
 Internet websites do not count, but online materials accessed through research databases such as JSTOR do.
 * **printed** (at least five)
 * requested through the **interlibrary loan** (at least one)
