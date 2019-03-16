@@ -83,15 +83,16 @@ Students will submit three papers in this course.
 | ------------- | ------------- | ------------- | ------------- |
 | Paper 1 | 4-5 pages double-spaced | February 25 | 10% |
 | Paper 2 | 4-5 pages double-spaced | March 20 | 10% |
-| Research Project | 3 components (see below) | April 8 | 20% |
+| Research Project | 4 components (see below) | April 8 | 20% |
 
 The research project will consist of three components.
 
 | Component | Due Date |
 | ------------- | ------------- |
 | Research Question | March 6 |
-| Annotated Bibliography and Outline | March 25 |
-| Final Research Paper | April 8 |
+| Annotated Bibliography | March 27 |
+| Outline | April 1 |
+| Research Paper | April 8 |
 
 The instructor will give students detailed feedback on each paper. Students will then have a week to revise and resubmit. If you need more time, please let the instructor know your timeline. The resubmission of revised papers is optional, but highly recommended.
 # Oral Presentation
