@@ -46,7 +46,7 @@ Research questions help writers focus their research by providing a path through
 10 sources (primary and secondary)
 
 An annotated bibliography is a bibliography in which you include a short summary or abstract of sources you are thinking of using for a paper. It is more than a works cited list, which gives only a bibliographic citation for the source. Annotations should offer a summary of the material as well as critical comments. Critical comments should be supported by personal argument or knowledge. These annotations do one or more of the following:
-* Describe the content and focus of the book, article or web site
+* Describe the content and focus of the book or article
 * Suggest the source's usefulness to your research
 * Evaluate the source's method, conclusions or reliability
 * Record your reactions to the source
