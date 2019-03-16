@@ -41,3 +41,6 @@ Research questions help writers focus their research by providing a path through
 * **concise**: it is expressed in the fewest possible words.
 * **complex**: it is not answerable with a simple “yes” or “no,” but rather requires synthesis and analysis of ideas and sources prior to composition of an answer.
 * **arguable**: its potential answers are open to debate rather than accepted facts.
+
+## Annotated Bibliography
+10 sources (primary and secondary)
