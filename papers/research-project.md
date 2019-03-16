@@ -50,4 +50,5 @@ An annotated bibliography is a bibliography in which you include a short summary
 * Suggest the source's usefulness to your research
 * Evaluate the source's method, conclusions or reliability
 * Record your reactions to the source
+
 Click on this [link](http://libguides.richmond.edu/citingsources/annotatedbibs) for more information.
