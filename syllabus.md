@@ -244,8 +244,6 @@ Please watch film [_Agora_](https://www.imdb.com/title/tt1186830/) (on reserve) 
 
 Please submit Paper 2.
 
-Please submit Annotated Bibliography.
-
 **March 27: Body and the Senses**
 
 * Teresa M. Shaw, “The Physiology of Ascetic Fasting,” in _The Burden of the Flesh: Fasting and Sexuality in Early Christianity_ (Minneapolis: Fortress Press, 1998). e-reserve (discussion)
