@@ -252,14 +252,14 @@ Please submit Annotated Bibliography.
 * Darlene L. Brooks Hedstrom, “Monks Baking Bread and Salting Fish: An Archaeology of Early Monastic Taste,” in _Knowing Bodies, Passionate Souls: Sense Perceptions in Byzantium_, ed. Susan Ashbrook Harvey and Margaret Mullett (Washington, D.C.: Dumbarton Oaks Research Library and Collection, 2017). e-reserve (discussion)
 * Susan Ashbrook Harvey, “Sanctity and Stench,” in _Scenting Salvation: Ancient Christianity and the Olfactory Imagination_ (Berkeley: University of California Press, 2006). eBook (discussion)
 
-Please submit Assignment 8.
+Please submit Annotated Bibliography.
 
 ###### Week 12
 **April 1: Writing Workshop**
 
 * Kate L. Turabian, “Planning Your Argument,” “Planning a First Draft,” “Drafting Your Paper,” “Preventing Plagiarism,” “Revising Your Draft,” “Writing Your Final Introduction and Conclusion,” “Revising Sentences,” “Learning from Your Returned Paper,” “On the Spirit of Research,” and “Citations,” in _Student’s Guide to Writing College Papers_ (Chicago; London: The University of Chicago Press, 2010). required text (background)
 
-Please submit Research Paper Outline.
+Please submit Outline.
 
 **April 3: Gender and Sexuality**
 
@@ -268,7 +268,7 @@ Please submit Research Paper Outline.
 * David Brakke, “The Problematization of Nocturnal Emission in Early Christian Syria, Egypt, and Gaul,” _Journal of Early Christian Studies_ 3.4 (1995). Boatwright catalogue (discussion)
 * David Brakke, “The Lady Appears: Materializations of “Woman” in Early Monastic Literature,” in _The Cultural Turn in Late Ancient Studies: Gender, Asceticism, and Historiography_, ed. Dale B. Martin and Patricia Cox Miller (Durham: Duke University Press, 2005). GitHub (discussion)
 
-Please submit Assignment 9.
+Please submit Assignment 8.
 
 ###### Week 13
 **April 8: Presentation Workshop**
@@ -282,7 +282,7 @@ Please submit Final Research Paper.
 * Evagrius of Pontus, “Against the Thoughts of Fornication,” in _Talking Back: A Monastic Handbook for Combating Demons_, trans. David Brakke (Liturgical Press, 2009). GitHub (assignment)
 * Eunice Dauterman Maguire, Henry Maguire, and Maggie J. Duncan-Flowers, _Art and Holy Powers in the Early Christian House_ (Krannert Art Museum, University of Illinois at Urbana-Champaign, 1989). GitHub (background)
 
-Please submit Assignment 10.
+Please submit Assignment 9.
 
 ###### Week 14
 **April 15: Literacy**
@@ -292,7 +292,7 @@ Please submit Assignment 10.
 * Paul Dilley, “_Dipinti_ in Late Antiquity and Shenoute’s Monastic Federation: Text and Image in the Paintings of the Red Monastery,” _Zeitschrift für Papyrologie und Epigraphik_ 165 (2008): 111-128. Boatwright catalog (discussion)
 * Ann Marie Yasin, “Prayers on Site: The Materiality of Devotional Graffiti and the Production of Early Christian Sacred Space,” in _Viewing Inscriptions in the Late Antique and Medieval World_ (Cambridge University Press, 2015). e-reserve (discussion)
 
-Please submit Assignment 11.
+Please submit Assignment 10.
 
 **Apri 17: Oral Presentations**
 
