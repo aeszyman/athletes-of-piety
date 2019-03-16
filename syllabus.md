@@ -234,7 +234,7 @@ Please submit Research Topic and Question.
 
 **March 20: Violence in Alexandria**
 
-* Christopher Haas, “Intercommunal Conflict during Late Antiquity,” in _Alexandria in Late Antiquity: Topography and Social Conflict_ (Baltimore: Johns Hopkins University Press, 2006). eBook (background)
+* Christopher Haas, “Intercommunal Conflict during Late Antiquity,” in _Alexandria in Late Antiquity: Topography and Social Conflict_ (Baltimore: Johns Hopkins University Press, 2006), pp. 278-316. eBook (background)
 * Catherine Nixey, “The Most Magnificent Building in the World,” “To Despise the Temples,” and “How to Destroy a Demon,” in _The Darkening Age: The Christian Destruction of the Classical World_ (Boston: Houghton Mifflin Harcourt, 2018). e-reserve (discussion)
 
 ###### Week 11
