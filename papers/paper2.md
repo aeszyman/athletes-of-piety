@@ -11,4 +11,4 @@ Choose one topic.
 
 2. Write an essay in which you compare the _Life of Antony_ and _The Lives of Simeon Stylites_. What are the similarities and differences between Antony and Simeon Stylites? What are the similarities and differences in how the two saints are portrayed by different authors? What aspects of asceticism did each author highlight? Cite and analyze specific examples from each vita.
 
-3. Write an essay in which you compare _The Lives of Simeon Stylites_ and the film _Simon of the Desert_. What are the similarities and differences between the two depictions of the saint? How does the portrayal of Simeon in the film differ from that in the saint's vitae? Cite and analyze specific examples from the written vitae and film.
+3. Write an essay in which you compare _The Lives of Simeon Stylites_ and the film _Simon of the Desert_. What are the similarities and differences between the two depictions of the saint? How does the portrayal of Simeon in the film differ from that in the saint's vitae? Cite and analyze specific examples from the written vitae and film. To enhance your analysis of the film, read the assigned background reading by Marc Ripley.
