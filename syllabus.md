@@ -243,51 +243,41 @@ Please submit Research Topic and Question.
 
 Please watch film [_Agora_](https://www.imdb.com/title/tt1186830/) (on reserve) in advance and be ready to discuss it in class. For viewing _Agora_ in the library, students have a few options - they can watch it individually, or watch it in small groups in the [Media Resouce Center](https://library.richmond.edu/mrc/index.html) viewing room or a library study room. Students can book rooms [here](http://libcal.richmond.edu). The library has dvd players students can check out at the main service desk and hook up in any of the study rooms.
 
-Please submit Paper 2.
+Due: Paper 2.
 
-**March 27: Body and the Senses**
+**March 27: _The Ladder of Divine Ascent_
 
-* Teresa M. Shaw, “The Physiology of Ascetic Fasting,” in _The Burden of the Flesh: Fasting and Sexuality in Early Christianity_ (Minneapolis: Fortress Press, 1998). e-reserve (discussion)
-* Darlene L. Brooks Hedstrom, “Monks Baking Bread and Salting Fish: An Archaeology of Early Monastic Taste,” in _Knowing Bodies, Passionate Souls: Sense Perceptions in Byzantium_, ed. Susan Ashbrook Harvey and Margaret Mullett (Washington, D.C.: Dumbarton Oaks Research Library and Collection, 2017). e-reserve (discussion)
-* Susan Ashbrook Harvey, “Sanctity and Stench,” in _Scenting Salvation: Ancient Christianity and the Olfactory Imagination_ (Berkeley: University of California Press, 2006). eBook (discussion)
+* John Climacus, _The Ladder of Divine Ascent_ (selections): "On Renunciation of Life" (pp. 73-80), "On Remembrance of Death" (pp. 132-135), "On Talkativeness and Silence" (pp. 158-159), "On Gluttony" (pp. 165-170), "On Poverty" (pp. 189-190), "On Discernment" (pp. 229-255), "On Prayer," (pp. 274-281), "On Faith, Hope, and Love" (pp. 286-290). GitHub (assignment)
 
-Please submit Annotated Bibliography.
+Due: Assignment 8 and Annotated Bibliography.
 
 ###### Week 12
-**April 1: Writing Workshop**
+**April 1: _The Rule of Benedict_**
 
+* _The Rule of Benedict_ (selections): "The Types of Monks" (Chapter 1), "The Sleeping Arrangements of Monastics" (Chapter 22), "Distribution of Goods According to Need" (Chapter 34), "The Daily Manual Labor" (Chapter 48). eBook (assignment)
 * Kate L. Turabian, “Planning Your Argument,” “Planning a First Draft,” “Drafting Your Paper,” “Preventing Plagiarism,” “Revising Your Draft,” “Writing Your Final Introduction and Conclusion,” “Revising Sentences,” “Learning from Your Returned Paper,” “On the Spirit of Research,” and “Citations,” in _Student’s Guide to Writing College Papers_ (Chicago; London: The University of Chicago Press, 2010). required text (background)
 
-Please submit Outline.
+Due: Assignment 9 and Outline.
 
-**April 3: Gender and Sexuality**
-
-* Elizabeth A. Clark, “Asceticism, Gender, and Class,” in _Late Ancient Christianity_, ed. Virginia Burrus (Minneapolis: Fortress Press, c2005). e-reserve (background)
-* Aline Rousselle, “Salvation by Child Sacrifice and Castration,” in _Porneia: On Desire and the Body in Antiquity_ (Wipf and Stock Publishers, 2013). GitHub (discussion)
-* David Brakke, “The Problematization of Nocturnal Emission in Early Christian Syria, Egypt, and Gaul,” _Journal of Early Christian Studies_ 3.4 (1995). Boatwright catalogue (discussion)
-* David Brakke, “The Lady Appears: Materializations of “Woman” in Early Monastic Literature,” in _The Cultural Turn in Late Ancient Studies: Gender, Asceticism, and Historiography_, ed. Dale B. Martin and Patricia Cox Miller (Durham: Duke University Press, 2005). GitHub (discussion)
-
-Please submit Assignment 8.
-
-###### Week 13
-**April 8: Presentation Workshop**
-
-Please submit Final Research Paper.
-
-**April 10: Demons**
+**April 3: Demons**
 
 * David Frankfurter, “An Architecture for Chaos: The Nature and Function of Demonology,” in _Evil Incarnate: Rumors of Demonic Conspiracy and Ritual Abuse in History_ (Princeton, N.J.; Woodstock: Princeton University Press, 2008). e-reserve (discussion)
 * Evagrius of Pontus, “Against the Thoughts of Fornication,” in _Talking Back: A Monastic Handbook for Combating Demons_, trans. David Brakke (Liturgical Press, 2009). GitHub (assignment)
 
-Please submit Assignment 9.
+Due: Assignment 10.
 
-###### Week 14
-**April 15: Literacy**
+###### Week 13
+**April 8: Literacy**
 
 * Chrysi Kotsfiou, “Books and Book Production in the Monastic Communities of Byzantine Egypt,” in _The Early Christian Book_, ed. William E. Klingshirn and Linda Safran (Washington, D.C.: Catholic University of America Press, c2007). eBook (background)
 * Ann Marie Yasin, “Prayers on Site: The Materiality of Devotional Graffiti and the Production of Early Christian Sacred Space,” in _Viewing Inscriptions in the Late Antique and Medieval World_ (Cambridge University Press, 2015). e-reserve (discussion)
 
-Please submit Assignment 10.
+**April 10: Storymap.js Workshop**
+
+Due: Final Research Paper.
+
+###### Week 14
+**April 15: Oral Presentation Workshop**
 
 **Apri 17: Oral Presentations**
 
