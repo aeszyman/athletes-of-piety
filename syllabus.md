@@ -254,7 +254,7 @@ Due: Assignment 8 and Annotated Bibliography.
 ###### Week 12
 **April 1: _The Rule of Benedict_**
 
-* _The Rule of Benedict_ (selections): "The Types of Monks" (Chapter 1), "The Sleeping Arrangements of Monastics" (Chapter 22), "Distribution of Goods According to Need" (Chapter 34), "The Daily Manual Labor" (Chapter 48). eBook (assignment)
+* [_The Rule of Benedict_](https://web-a-ebscohost-com.newman.richmond.edu/ehost/ebookviewer/ebook?sid=fc42d5c8-be7e-4ea0-b1f7-560ae0d86840%40sdc-v-sessmgr04&vid=0&format=EK) (selections): "The Types of Monks" (Chapter 1), "The Sleeping Arrangements of Monastics" (Chapter 22), "Distribution of Goods According to Need" (Chapter 34), "The Daily Manual Labor" (Chapter 48). eBook (assignment)
 * Kate L. Turabian, “Planning Your Argument,” “Planning a First Draft,” “Drafting Your Paper,” “Preventing Plagiarism,” “Revising Your Draft,” “Writing Your Final Introduction and Conclusion,” “Revising Sentences,” “Learning from Your Returned Paper,” “On the Spirit of Research,” and “Citations,” in _Student’s Guide to Writing College Papers_ (Chicago; London: The University of Chicago Press, 2010). required text (background)
 
 Due: Assignment 9 and Outline.
