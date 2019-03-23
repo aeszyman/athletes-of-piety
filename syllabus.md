@@ -247,7 +247,7 @@ Due: Paper 2.
 
 **March 27: _The Ladder of Divine Ascent_**
 
-* John Climacus, _The Ladder of Divine Ascent_ (selections): "On Renunciation of Life" (pp. 73-80), "On Remembrance of Death" (pp. 132-135), "On Talkativeness and Silence" (pp. 158-159), "On Gluttony" (pp. 165-170), "On Poverty" (pp. 189-190), "On Discernment" (pp. 229-255), "On Prayer," (pp. 274-281), "On Faith, Hope, and Love" (pp. 286-290). GitHub (assignment)
+* John Climacus, _The Ladder of Divine Ascent_ (selections): "On Renunciation of Life" (pp. 73-80), "On Remembrance of Death" (pp. 132-135), "On Talkativeness and Silence" (pp. 158-159), "On Gluttony" (pp. 165-170), "On Poverty" (pp. 189-190), "On Faith, Hope, and Love" (pp. 286-290). GitHub (assignment)
 
 Due: Assignment 8 and Annotated Bibliography.
 
