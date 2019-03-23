@@ -62,3 +62,11 @@ Tertiary sources do not count, but you should use them. All sources (primary, se
 Internet websites do not count, but online materials accessed through research databases such as JSTOR do.
 * **printed** (at least five)
 * requested through the **interlibrary loan** (at least one)
+
+## Outline
+
+The outline has to include the following elements:
+1) thesis statement
+2) topic sentences for each paragraph
+
+If you have questions above thesis statement or topic sentences, consult the required rext by Kate L. Turabian, visit the Writing Center, or speak with me.
