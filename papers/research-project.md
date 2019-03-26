@@ -67,6 +67,6 @@ Internet websites do not count, but online materials accessed through research d
 
 The outline has to include the following elements:
 1) thesis statement
-2) topic sentences for each paragraph
+2) topic sentence for each paragraph
 
 If you have questions above thesis statement or topic sentences, consult the required rext by Kate L. Turabian, visit the Writing Center, or speak with me.
