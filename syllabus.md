@@ -249,7 +249,11 @@ Due: Paper 2.
 
 * John Climacus, _The Ladder of Divine Ascent_ (selections): "On Renunciation of Life" (pp. 73-80), "On Remembrance of Death" (pp. 132-135), "On Talkativeness and Silence" (pp. 158-159), "On Gluttony" (pp. 165-170), "On Poverty" (pp. 189-190), "On Faith, Hope, and Love" (pp. 286-290). GitHub (assignment)
 
-Due: Assignment 8 and Annotated Bibliography.
+Due: Assignment 8.
+
+**March 31**
+
+Due: Annotated Bibliography.
 
 ###### Week 12
 **April 1: _The Rule of Benedict_**
