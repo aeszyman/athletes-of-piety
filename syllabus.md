@@ -261,7 +261,7 @@ Due: Annotated Bibliography.
 * Saint Benedict, Abbot of Monte Cassino, _The Rule of Benedict: An Invitation to the Christian Life_ (selections): "The Types of Monks" (Chapter 1), "The Sleeping Arrangements of Monastics" (Chapter 22), "Distribution of Goods According to Need" (Chapter 34), "The Daily Manual Labor" (Chapter 48), trans. Mark Thamert (Athens, Ohio: Cistercian Publications; Collegeville, Minnesota: Liturgical Press, 2016). eBook (assignment)
 * Kate L. Turabian, “Planning Your Argument,” “Planning a First Draft,” “Drafting Your Paper,” “Preventing Plagiarism,” “Revising Your Draft,” “Writing Your Final Introduction and Conclusion,” “Revising Sentences,” “Learning from Your Returned Paper,” “On the Spirit of Research,” and “Citations,” in _Student’s Guide to Writing College Papers_ (Chicago; London: The University of Chicago Press, 2010). required text (background)
 
-Due: Assignment 9 and Outline.
+Due: Assignment 9.
 
 **April 3: Demons**
 
@@ -269,6 +269,10 @@ Due: Assignment 9 and Outline.
 * Evagrius of Pontus, “Against the Thoughts of Fornication,” in _Talking Back: A Monastic Handbook for Combating Demons_, trans. David Brakke (Liturgical Press, 2009). GitHub (assignment)
 
 Due: Assignment 10.
+
+**April 7**
+
+Due: Outline.
 
 ###### Week 13
 **April 8: Literacy**
