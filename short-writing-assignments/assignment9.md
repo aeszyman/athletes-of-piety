@@ -1,10 +1,8 @@
-# Assignment 8
-**_The Ladder of Divine Ascent_**
+# Assignment 9
+**_The Rule of Benedict_**
 
 1-2 pages double-spaced
 
-due March 27
+due April 1
 
-Write an analytical synopsis of the assigned selections from the _The Ladder of Divine Ascent_. Also, answer the following questions.
-1) In what ways does _The Ladder of Divine Ascent_ differ from the vitae of Antony and Simeon Stylites?
-2) Each chapter in the _The Ladder of Divine Ascent_ is called a step. What do these "steps" symbolize?
+Write an analytical synopsis of the assigned selections from the _The Rule of Benedict_. Also, answer the following question: How does the _Rule of Benedict_ compare to other monastic sources you have read in this course?
