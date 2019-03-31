@@ -5,7 +5,7 @@ The research project consists of three components.
 | ------------- | ------------- |
 | Research Question | March 6 |
 | Annotated Bibliography | March 31 |
-| Outline | April 1 |
+| Outline | April 7 |
 | Research Paper | April 8 |
 
 ## Possible Research Topics
