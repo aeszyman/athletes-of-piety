@@ -266,9 +266,7 @@ Due: Assignment 9.
 **April 3: Demons**
 
 * David Frankfurter, “An Architecture for Chaos: The Nature and Function of Demonology,” in _Evil Incarnate: Rumors of Demonic Conspiracy and Ritual Abuse in History_ (Princeton, N.J.; Woodstock: Princeton University Press, 2008). e-reserve (discussion)
-* Evagrius of Pontus, “Against the Thoughts of Fornication,” in _Talking Back: A Monastic Handbook for Combating Demons_, trans. David Brakke (Liturgical Press, 2009). GitHub (assignment)
-
-Due: Assignment 10.
+* Evagrius of Pontus, “Against the Thoughts of Fornication,” in _Talking Back: A Monastic Handbook for Combating Demons_, trans. David Brakke (Liturgical Press, 2009). GitHub (background)
 
 **April 7**
 
