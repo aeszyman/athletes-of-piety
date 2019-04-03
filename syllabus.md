@@ -282,7 +282,7 @@ Due: Outline.
 
 **April 14**
 
-Due: Final Research Paper.
+Due: Final Research Paper (required) and Revised Paper 1 (optional).
 
 ###### Week 14
 **April 15: Oral Presentation Workshop**
