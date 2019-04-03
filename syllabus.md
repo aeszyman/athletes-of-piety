@@ -280,6 +280,8 @@ Due: Outline.
 
 **April 10: Storymap.js Workshop**
 
+**April 14**
+
 Due: Final Research Paper.
 
 ###### Week 14
