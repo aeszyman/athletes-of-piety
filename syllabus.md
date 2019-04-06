@@ -280,6 +280,8 @@ Due: Outline.
 
 **April 10: Storymap.js Workshop**
 
+**April 12: [Student Symposium](https://as.richmond.edu/student-research/symposium/SymposiumProgram2019_online.pdf)**
+
 **April 14**
 
 Due: Final Research Paper (required) and Revised Paper 1 (optional).
