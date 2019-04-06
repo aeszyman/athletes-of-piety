@@ -275,7 +275,7 @@ Due: Outline.
 ###### Week 13
 **April 8: Literacy**
 
-* Chrysi Kotsfiou, “Books and Book Production in the Monastic Communities of Byzantine Egypt,” in _The Early Christian Book_, ed. William E. Klingshirn and Linda Safran (Washington, D.C.: Catholic University of America Press, c2007). eBook (background)
+* Chrysi Kotsfiou, “Books and Book Production in the Monastic Communities of Byzantine Egypt,” in _The Early Christian Book_, ed. William E. Klingshirn and Linda Safran, 48-66 (Washington, D.C.: Catholic University of America Press, c2007). eBook (background)
 * Ann Marie Yasin, “Prayers on Site: The Materiality of Devotional Graffiti and the Production of Early Christian Sacred Space,” in _Viewing Inscriptions in the Late Antique and Medieval World_ (Cambridge University Press, 2015). e-reserve (discussion)
 
 **April 10: Storymap.js Workshop**
