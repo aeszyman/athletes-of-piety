@@ -1,3 +1,5 @@
+Booth, Charlotte. _Hypatia: Mathematician, Philosopher, Myth_. Fonthill Media, 2017.
+
 Bowersock, Glenn Warren, Peter Brown, and Oleg Grabar, eds. _Interpreting Late Antiquity: Essays on the Postclassical World_. Harvard University Press, 2001.
 
 Brakke, David. _Demons and the Making of the Monk: Spiritual Combat in Early Christianity_. Cambridge, Mass.: Harvard University Press, 2006.
