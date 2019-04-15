@@ -289,7 +289,7 @@ Due: Final Research Paper (required) and Revised Paper 1 (optional).
 ###### Week 14
 **April 15: Oral Presentation Workshop**
 
-**Apri 17: Oral Presentations**
+**Apri 17: Oral Presentation Workshop**
 
 ###### Week 15
 **April 22: Oral Presentations**
