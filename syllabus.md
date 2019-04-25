@@ -296,4 +296,8 @@ Due: Final Research Paper (required) and Revised Paper 1 (optional).
 
 **April 24: Oral Presentations**
 
-**Wednesday, May 1, 9am-12pm: Final Portfolio Due**
+**May 2**
+
+Due: Revised Paper 2 (optional).
+
+**Wednesday, May 4, midnight: Final Portfolio Due**
