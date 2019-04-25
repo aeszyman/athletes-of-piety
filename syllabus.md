@@ -296,7 +296,7 @@ Due: Final Research Paper (required) and Revised Paper 1 (optional).
 
 **April 24: Oral Presentations**
 
-**May 2**
+**May 2, 3PM**
 
 Due: Revised Paper 2 (optional).
 
