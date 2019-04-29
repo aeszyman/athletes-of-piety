@@ -2,7 +2,7 @@
 
 due Sunday, May 5, midnight
 
-You will upload a “portfolio” of the work you have done throughout the semester. Please upload all files to a Box folder I have shared with each of you individually. I have already placed some of the work you turned in over the course of the semester, with my feedback, to give you a head start. I will continue adding to your individual folders in the next few days, so check it daily. This Box folder should contain all papers, weekly writings, additional assignments, and in-class writings. In order to receive credit for your work, you must include the original assignments that include my comments.
+You will upload a “portfolio” of the work you have done throughout the semester. Please upload all files to a Box folder I have shared with each of you individually. I have already placed some of the work you turned in over the course of the semester, with my feedback, to give you a head start. I will continue adding to your individual folders in the next few days, so check it daily. This Box folder should contain all papers, weekly writings, additional assignments, and in-class writings. Feel free to organize the files into subfolders (e.g. reading responses). In order to receive credit for your work, you must include the original assignments that include my comments.
 
 **Portfolio Cover Letter**
 
