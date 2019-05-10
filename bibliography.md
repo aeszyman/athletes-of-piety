@@ -1,3 +1,5 @@
+Bell, Catherine. _Ritual Theory, Ritual Practice_. Oxford University Press, 1992.
+
 Booth, Charlotte. _Hypatia: Mathematician, Philosopher, Myth_. Fonthill Media, 2017.
 
 Bowersock, Glenn Warren, Peter Brown, and Oleg Grabar, eds. _Interpreting Late Antiquity: Essays on the Postclassical World_. Harvard University Press, 2001.
