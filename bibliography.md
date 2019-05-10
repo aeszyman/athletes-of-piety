@@ -1,3 +1,5 @@
+Bell, Catherine. _Ritual: Perspectives and Dimensions_. Oxford University Press, 1997.
+
 Bell, Catherine. _Ritual Theory, Ritual Practice_. Oxford University Press, 1992.
 
 Booth, Charlotte. _Hypatia: Mathematician, Philosopher, Myth_. Fonthill Media, 2017.
