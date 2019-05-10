@@ -32,6 +32,8 @@ Flood, Gavin D. _The Ascetic Self: Subjectivity, Memory, and Tradition_. Cambrid
 
 Frankfurter, David. _Evil Incarnate: Rumors of Demonic Conspiracy and Ritual Abuse in History_. Princeton, N.J.; Woodstock: Princeton University Press, 2008.
 
+Freiberger, Oliver, ed. _Asceticism and Its Critics: Historical Accounts and Comparative Approaches_. Oxford University Press, 2006.
+
 Haas, Christopher. _Alexandria in Late Antiquity: Topography and Social Conflict_. Baltimore: Johns Hopkins University Press, 2006.
 
 Harmless, William. _Desert Christians: An Introduction to the Literature of Early Monasticism_. Oxford University Press, 2004.
