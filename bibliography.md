@@ -68,4 +68,6 @@ Shaw, Teresa M. _The Burden of the Flesh: Fasting and Sexuality in Early Christi
 
 Spier, Jeffrey, ed. _Picturing the Bible: The Earliest Christian Art_. New Haven: Yale University Press; Fort Worth: In association with the Kimbell Art Museum, c2007.
 
+Wimbush, Vincent L., ed. _Ascetic Behavior in Greco-Roman Antiquity: A Sourcebook_. Minneapolis: Fortress Press, 1990.
+
 Woodhead, Linda. _Christianity: A Very Short Introduction_. Oxford University Press, 2014.
