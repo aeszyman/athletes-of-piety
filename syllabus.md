@@ -195,7 +195,7 @@ Please submit the essay part of the TimelineJS assignment.
 * Derek Krueger, “The Religion of Relics in Late Antiquity and Byzantium,” in _Treasures of Heaven: Saints, Relics, and Devotion in Medieval Europe_, ed. Martina Bagnoli, Holger A. Klein, C. Griffith Mann, and James Robinson (Baltimore: Walters Art Museum, 2010). reserve (discussion)
 * Jaś Elsner, “Relics, Icon, and Architecture: The Material Articulation of the Holy in East Christian Art,” in _Saints and Sacred Matter: The Cult of Relics in Byzantium and Beyond_, ed. Cynthia Hahn and Holger A. Klein (Washington, D.C.: Dumbarton Oaks Research Library and Collection, 2015). e-reserve (discussion)
 * Georgia Frank, “Pilgrimage,” in _The Oxford Handbook of Early Christian Studies_, ed. Susan Ashbrook Harvey and David G. Hunter (Oxford; New York: Oxford University Press, 2008). e-reserve (discussion)
-* Philip Wood, “Syriac and the Syrians,” in _The Oxford Handbook of Late Antiquity_, ed. Scott Fitzgerald Johnson (Oxford; New York: Oxford University Press, c2012). eBook (background)
+* Moshe Kalian and Eliezer Wiztu, "Facing a Holy Space: Psychiatric Hospitalization of Tourists in Jerusalem," in _Sacred Space: Shrine, City, Land_, edited by Benjamin Z. Kedar and R.J. Zwi Werblowsky (New York University Press, 1998).
 
 Please submit Paper 1.
 
