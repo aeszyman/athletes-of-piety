@@ -1,3 +1,5 @@
+Barrett, Emma and Paul Martin. _Extreme: Why Some People Thrive at the Limits_. Oxford University Press, 2014.
+
 Bell, Catherine. _Ritual: Perspectives and Dimensions_. Oxford University Press, 1997.
 
 Bell, Catherine. _Ritual Theory, Ritual Practice_. Oxford University Press, 1992.
@@ -65,6 +67,8 @@ Maguire, Eunice Dauterman, Henry Maguire, and Maggie J. Duncan-Flowers. _Art and
 Martin, Dale B. and Patricia Cox Miller, eds. _The Cultural Turn in Late Ancient Studies: Gender, Asceticism, and Historiography_. Durham: Duke University Press, 2005.
 
 Millman, Dan. _Way of the Peaceful Warrior: A Book that Changes Lives_. Kramer, 2000.
+
+Newberg, Andrew and Mark Robert Waldman. _How God Changes Your Brain: Breakthrough Findings from a Leading Neuroscientist_. Random House Publishing Group, 2009.
 
 Newby, Zahra. _Greek Athletics in the Roman World: Victory and Virtue_. Oxford; New York: Oxford University Press, 2005.
 
