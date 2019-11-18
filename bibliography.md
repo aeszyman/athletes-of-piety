@@ -78,7 +78,7 @@ Rousselle, Aline. _Porneia: On Desire and the Body in Antiquity_. Wipf and Stock
 
 Shaw, Teresa M. _The Burden of the Flesh: Fasting and Sexuality in Early Christianity_. Minneapolis: Fortress Press, 1998.
 
-Samuel, Sigal. Dopamine fasting is Silicon Valley’s hot new trend. Is it backed by science? How dopamine fasting works — and doesn’t. _Vox_ November 13, 2019.
+Samuel, Sigal. Dopamine fasting is Silicon Valley's hot new trend. Is it backed by science? How dopamine fasting works — and doesn't. _Vox_ November 13, 2019.
 
 Spier, Jeffrey, ed. _Picturing the Bible: The Earliest Christian Art_. New Haven: Yale University Press; Fort Worth: In association with the Kimbell Art Museum, c2007.
 
